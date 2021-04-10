@@ -523,160 +523,200 @@
         "category": "music",
         "sounds": ["sounds/music/eiffelpower"]
     },
-    "music.bennyhill": {
+    "music.falling": {
         "category": "music",
-        "sounds": ["sounds/music/bennyhill"]
+        "sounds": ["sounds/music/falling"]
     },
-    "music.bennyhill": {
+    "music.flipreset": {
         "category": "music",
-        "sounds": ["sounds/music/bennyhill"]
+        "sounds": ["sounds/music/flipreset"]
     },
-    "music.bennyhill": {
+    "music.fortunateson": {
         "category": "music",
-        "sounds": ["sounds/music/bennyhill"]
+        "sounds": ["sounds/music/fortunateson"]
     },
-    "music.bennyhill": {
+    "music.gaylord": {
         "category": "music",
-        "sounds": ["sounds/music/bennyhill"]
+        "sounds": ["sounds/music/gaylord"]
     },
-    "music.bennyhill": {
+    "music.goodtogo": {
         "category": "music",
-        "sounds": ["sounds/music/bennyhill"]
+        "sounds": ["sounds/music/goodtogo"]
     },
-    "music.bennyhill": {
+    "music.gullywax": {
         "category": "music",
-        "sounds": ["sounds/music/bennyhill"]
+        "sounds": ["sounds/music/gullywax"]
     },
-    "music.bennyhill": {
+    "music.headswillroll": {
         "category": "music",
-        "sounds": ["sounds/music/bennyhill"]
+        "sounds": ["sounds/music/headswillroll"]
     },
-    "music.bennyhill": {
+    "music.heathens": {
         "category": "music",
-        "sounds": ["sounds/music/bennyhill"]
+        "sounds": ["sounds/music/heathens"]
     },
-    "music.bennyhill": {
+    "music.heists": {
         "category": "music",
-        "sounds": ["sounds/music/bennyhill"]
+        "sounds": ["sounds/music/heists"]
     },
-    "music.bennyhill": {
+    "music.hot": {
         "category": "music",
-        "sounds": ["sounds/music/bennyhill"]
+        "sounds": ["sounds/music/hot"]
     },
-    "music.bennyhill": {
+    "music.hotremix": {
         "category": "music",
-        "sounds": ["sounds/music/bennyhill"]
+        "sounds": ["sounds/music/hotremix"]
     },
-    "music.bennyhill": {
+    "music.howwewin": {
         "category": "music",
-        "sounds": ["sounds/music/bennyhill"]
+        "sounds": ["sounds/music/howwewin"]
     },
-    "music.bennyhill": {
+    "music.illfightback": {
         "category": "music",
-        "sounds": ["sounds/music/bennyhill"]
+        "sounds": ["sounds/music/illfightback"]
     },
-    "music.bennyhill": {
+    "music.infiniteammo": {
         "category": "music",
-        "sounds": ["sounds/music/bennyhill"]
+        "sounds": ["sounds/music/infiniteammo"]
     },
-    "music.bennyhill": {
+    "music.iwillgiveyoumyall": {
         "category": "music",
-        "sounds": ["sounds/music/bennyhill"]
+        "sounds": ["sounds/music/iwillgiveyoumyall"]
     },
-    "music.bennyhill": {
+    "music.mariokart": {
         "category": "music",
-        "sounds": ["sounds/music/bennyhill"]
+        "sounds": ["sounds/music/mariokart"]
     },
-    "music.bennyhill": {
+    "music.megalovania": {
         "category": "music",
-        "sounds": ["sounds/music/bennyhill"]
+        "sounds": ["sounds/music/megalovania"]
     },
-    "music.bennyhill": {
+    "music.mountainking": {
         "category": "music",
-        "sounds": ["sounds/music/bennyhill"]
+        "sounds": ["sounds/music/mountainking"]
     },
-    "music.bennyhill": {
+    "music.nyancat": {
         "category": "music",
-        "sounds": ["sounds/music/bennyhill"]
+        "sounds": ["sounds/music/nyancat"]
     },
-    "music.bennyhill": {
+    "music.onewingedangel": {
         "category": "music",
-        "sounds": ["sounds/music/bennyhill"]
+        "sounds": ["sounds/music/onewingedangel"]
     },
-    "music.bennyhill": {
+    "music.overkill": {
         "category": "music",
-        "sounds": ["sounds/music/bennyhill"]
+        "sounds": ["sounds/music/overkill"]
     },
-    "music.bennyhill": {
+    "music.ping": {
         "category": "music",
-        "sounds": ["sounds/music/bennyhill"]
+        "sounds": ["sounds/music/ping"]
     },
-    "music.bennyhill": {
+    "music.rainbowtylenol": {
         "category": "music",
-        "sounds": ["sounds/music/bennyhill"]
+        "sounds": ["sounds/music/rainbowtylenol"]
     },
-    "music.bennyhill": {
+    "music.rattlesnake": {
         "category": "music",
-        "sounds": ["sounds/music/bennyhill"]
+        "sounds": ["sounds/music/rattlesnake"]
     },
-    "music.bennyhill": {
+    "music.razormind": {
         "category": "music",
-        "sounds": ["sounds/music/bennyhill"]
+        "sounds": ["sounds/music/razormind"]
     },
-    "music.bennyhill": {
+    "music.recess": {
         "category": "music",
-        "sounds": ["sounds/music/bennyhill"]
+        "sounds": ["sounds/music/recess"]
     },
-    "music.bennyhill": {
+    "music.resistance": {
         "category": "music",
-        "sounds": ["sounds/music/bennyhill"]
+        "sounds": ["sounds/music/resistance"]
     },
-    "music.bennyhill": {
+    "music.revenger": {
         "category": "music",
-        "sounds": ["sounds/music/bennyhill"]
+        "sounds": ["sounds/music/revenger"]
     },
-    "music.bennyhill": {
+    "music.rickastley": {
         "category": "music",
-        "sounds": ["sounds/music/bennyhill"]
+        "sounds": ["sounds/music/rickastley"]
     },
-    "music.bennyhill": {
+    "music.rogue": {
         "category": "music",
-        "sounds": ["sounds/music/bennyhill"]
+        "sounds": ["sounds/music/rogue"]
     },
-    "music.bennyhill": {
+    "music.runninginthe90s": {
         "category": "music",
-        "sounds": ["sounds/music/bennyhill"]
+        "sounds": ["sounds/music/runninginthe90s"]
     },
-    "music.bennyhill": {
+    "music.sandstorm": {
         "category": "music",
-        "sounds": ["sounds/music/bennyhill"]
+        "sounds": ["sounds/music/sandstorm"]
     },
-    "music.bennyhill": {
+    "music.solo": {
         "category": "music",
-        "sounds": ["sounds/music/bennyhill"]
+        "sounds": ["sounds/music/solo"]
     },
-    "music.bennyhill": {
+    "music.sightofyoursoul": {
         "category": "music",
-        "sounds": ["sounds/music/bennyhill"]
+        "sounds": ["sounds/music/sightofyoursoul"]
     },
-    "music.bennyhill": {
+    "music.sovietconnection": {
         "category": "music",
-        "sounds": ["sounds/music/bennyhill"]
+        "sounds": ["sounds/music/sovietconnection"]
     },
-    "music.bennyhill": {
+    "music.speedrun": {
         "category": "music",
-        "sounds": ["sounds/music/bennyhill"]
+        "sounds": ["sounds/music/speedrun"]
     },
-    "music.bennyhill": {
+    "music.stickbug": {
         "category": "music",
-        "sounds": ["sounds/music/bennyhill"]
+        "sounds": ["sounds/music/stickbug"]
     },
-    "music.bennyhill": {
+    "music.takeajoyride": {
         "category": "music",
-        "sounds": ["sounds/music/bennyhill"]
+        "sounds": ["sounds/music/takeajoyride"]
     },
-    "music.bennyhill": {
+    "music.testme": {
         "category": "music",
-        "sounds": ["sounds/music/bennyhill"]
+        "sounds": ["sounds/music/testme"]
+    },
+    "music.thistime": {
+        "category": "music",
+        "sounds": ["sounds/music/thistime"]
+    },
+    "music.tokyodrift": {
+        "category": "music",
+        "sounds": ["sounds/music/tokyodrift"]
+    },
+    "music.tothetop": {
+        "category": "music",
+        "sounds": ["sounds/music/tothetop"]
+    },
+    "music.tundra": {
+        "category": "music",
+        "sounds": ["sounds/music/tundra"]
+    },
+    "music.ugotthat": {
+        "category": "music",
+        "sounds": ["sounds/music/ugotthat"]
+    },
+    "music.untiltheend": {
+        "category": "music",
+        "sounds": ["sounds/music/untiltheend"]
+    },
+    "music.ussr": {
+        "category": "music",
+        "sounds": ["sounds/music/ussr"]
+    },
+    "music.whatyouwaitingfor": {
+        "category": "music",
+        "sounds": ["sounds/music/whatyouwaitingfor"]
+    },
+    "music.xfiles": {
+        "category": "music",
+        "sounds": ["sounds/music/xfiles"]
+    },
+    "music.yelldeadcell": {
+        "category": "music",
+        "sounds": ["sounds/music/yelldeadcell"]
     }
 }
