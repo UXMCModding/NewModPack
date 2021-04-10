@@ -4,7 +4,7 @@
         "description": "The Experiment",
         "name": "The Experiment",
         "uuid": "ab458597-5454-481a-8730-8d070a8e2e58",
-        "version": [0, 0, 1],
+        "version": [0, 0, 2],
         "min_engine_version": [ 1, 13, 0 ]
     },
     "modules": [
@@ -12,13 +12,13 @@
             "description": "The Experiment",
             "type": "data",
             "uuid": "ab45cc3b-7bad-4f4f-aa97-d98108e6aa33",
-            "version": [0, 0, 1]
+            "version": [0, 0, 2]
         }
     ],
     "dependencies": [
       {
         "uuid": "ab45c61f-a5da-4b7f-9961-ffda2908861e",
-        "version": [0, 0, 1]
+        "version": [0, 0, 2]
       }
     ]
 }

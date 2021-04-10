@@ -1,0 +1,33 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:attachable": {
+    "description": {
+      "identifier": "uxweapons:plazma",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "textures": {
+        "default": "textures/entity/plazma"
+      },
+      "geometry": {
+        "default": "geometry.plazma_hand"
+      },
+      "animations": {
+        "wield": "animation.end_crystal.first_person_wield",
+        "default": "animation.end_crystal.default",
+        "crystal_movement": "animation.end_crystal.crystal_movement"
+      },
+      "scripts": {
+        "animate": [
+          { "wield": "c.is_first_person && c.item_slot == 'main_hand' && q.get_equipped_item_name == 'plazma'"
+          },
+          { "default": "!c.is_first_person && c.item_slot == 'main_hand' && q.get_equipped_item_name == 'plazma'"
+          },
+          { "crystal_movement": "q.get_equipped_item_name == 'plazma'"
+          }
+        ]
+      },
+      "render_controllers": [ "controller.render.plazma_hand" ]
+    }
+  }
+}
