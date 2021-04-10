@@ -1,0 +1,14 @@
+
+*.log
+*.ldb
+*.ldb
+db/CURRENT
+db/MANIFEST-000013
+db/MANIFEST-000057
+*.dat
+*.dat_old
+db/000051.log
+db/000053.ldb
+db/000055.ldb
+db/000055.ldb
+db/000056.ldb
