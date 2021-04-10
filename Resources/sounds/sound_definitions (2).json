@@ -1,0 +1,120 @@
+//bridge-file-version: #2
+{
+	"format_version": "1.14.0",
+	"sound_definitions": {
+		"mob.ghost.death": {
+			"__use_legacy_max_distance": true,
+			"category": "hostile",
+			"sounds": [
+				"sounds/mob/ghost/death"
+			]
+		},
+		"mob.ghost.hurt": {
+			"__use_legacy_max_distance": true,
+			"category": "hostile",
+			"sounds": [
+				"sounds/mob/empty/empty",
+				"sounds/mob/empty/empty",
+				"sounds/mob/empty/empty",
+				"sounds/mob/empty/empty"
+			]
+		},
+		"mob.ghost.say": {
+			"__use_legacy_max_distance": true,
+			"category": "hostile",
+			"sounds": [
+				"sounds/mob/ghost/say1",
+				"sounds/mob/ghost/say2",
+				"sounds/mob/ghost/say4",
+				"sounds/mob/ghost/say5",
+				"sounds/mob/ghost/say6",
+				"sounds/mob/ghost/say7",
+				"sounds/mob/ghost/say8",
+				{
+					"load_on_low_memory": true,
+					"name": "sounds/mob/ghost/say3"
+				}
+			]
+		},
+		"mob.baby_spider.say": {
+			"__use_legacy_max_distance": true,
+			"category": "hostile",
+			"sounds": [
+				"sounds/mob/spider/say1",
+				"sounds/mob/spider/say2",
+				"sounds/mob/spider/say3",
+				{
+					"load_on_low_memory": true,
+					"name": "sounds/mob/spider/say4"
+				},
+				"sounds/mob/spider/say1",
+				"sounds/mob/spider/say2",
+				"sounds/mob/spider/say3",
+				{
+					"load_on_low_memory": true,
+					"name": "sounds/mob/spider/say4"
+				}
+			]
+		},
+		"mob.baby_spider.death": {
+			"__use_legacy_max_distance": true,
+			"category": "hostile",
+			"sounds": [
+				"sounds/mob/spider/death"
+			]
+		},
+		"mob.baby_spider.step": {
+			"__use_legacy_max_distance": true,
+			"category": "hostile",
+			"sounds": [
+				{
+					"load_on_low_memory": true,
+					"name": "sounds/mob/spider/step1"
+				},
+				"sounds/mob/spider/step2",
+				"sounds/mob/spider/step3",
+				"sounds/mob/spider/step4"
+			]
+		},
+		"mob.queen_spider.say": {
+			"__use_legacy_max_distance": true,
+			"category": "hostile",
+			"sounds": [
+				"sounds/mob/spider/say1",
+				"sounds/mob/spider/say2",
+				"sounds/mob/spider/say3",
+				{
+					"load_on_low_memory": true,
+					"name": "sounds/mob/spider/say4"
+				},
+				"sounds/mob/spider/say1",
+				"sounds/mob/spider/say2",
+				"sounds/mob/spider/say3",
+				{
+					"load_on_low_memory": true,
+					"name": "sounds/mob/spider/say4"
+				}
+			]
+		},
+		"mob.queen_spider.death": {
+			"__use_legacy_max_distance": true,
+			"category": "hostile",
+			"sounds": [
+				"sounds/mob/spider/death"
+			]
+		},
+		"mob.queen_spider.step": {
+			"__use_legacy_max_distance": true,
+			"category": "hostile",
+			"sounds": [
+				{
+					"load_on_low_memory": true,
+					"name": "sounds/mob/spider/step1"
+				},
+				"sounds/mob/spider/step2",
+				"sounds/mob/spider/step3",
+				"sounds/mob/spider/step4"
+			]
+		}
+	}
+}

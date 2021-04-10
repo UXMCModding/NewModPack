@@ -1,0 +1,7 @@
+{
+  "menu": {
+    "event_name" : "music.solo",
+    "min_delay": 0,
+    "max_delay": 0 
+  }
+}

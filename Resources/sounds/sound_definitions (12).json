@@ -1,0 +1,199 @@
+{
+  "format_version": "1.14.0",
+  "sound_definitions": {
+    "music.menu": {
+      "category": "music",
+      "sounds": [
+        {
+          "name": "sounds/music/menu/menu1",
+          "stream": true,
+          "volume": 0.3,
+          "load_on_low_memory": true
+        },
+        {
+          "name": "sounds/music/menu/menu2",
+          "stream": true,
+          "volume": 0.3,
+          "load_on_low_memory": true
+        },
+        {
+          "name": "sounds/music/menu/menu3",
+          "stream": true,
+          "volume": 0.3,
+          "load_on_low_memory": true
+        },
+        {
+          "name": "sounds/music/menu/menu4",
+          "stream": true,
+          "volume": 0.3,
+          "load_on_low_memory": true
+        },
+        {
+          "name": "sounds/music/menu/menu5",
+          "stream": true,
+          "volume": 0.3,
+          "load_on_low_memory": true
+        },
+        {
+          "name": "sounds/music/menu/menu6",
+          "stream": true,
+          "volume": 0.3,
+          "load_on_low_memory": true
+        },
+        {
+          "name": "sounds/music/menu/menu7",
+          "stream": true,
+          "volume": 0.3,
+          "load_on_low_memory": true
+        },
+        {
+          "name": "sounds/music/menu/menu8",
+          "stream": true,
+          "volume": 0.3,
+          "load_on_low_memory": true
+        },
+        {
+          "name": "sounds/music/menu/menu9",
+          "stream": true,
+          "volume": 0.3,
+          "load_on_low_memory": true
+        },
+        {
+          "name": "sounds/music/menu/menu10",
+          "stream": true,
+          "volume": 0.3,
+          "load_on_low_memory": true
+        },
+        {
+          "name": "sounds/music/menu/menu12",
+          "stream": true,
+          "volume": 0.3,
+          "load_on_low_memory": true
+        },
+        {
+          "name": "sounds/music/menu/menu13",
+          "stream": true,
+          "volume": 0.3,
+          "load_on_low_memory": true
+        },
+        {
+          "name": "sounds/music/menu/menu14",
+          "stream": true,
+          "volume": 0.3,
+          "load_on_low_memory": true
+        },
+        {
+          "name": "sounds/music/menu/menu15",
+          "stream": true,
+          "volume": 0.3,
+          "load_on_low_memory": true
+        },
+        {
+          "name": "sounds/music/menu/menu16",
+          "stream": true,
+          "volume": 0.3,
+          "load_on_low_memory": true
+        },
+        {
+          "name": "sounds/music/menu/menu17",
+          "stream": true,
+          "volume": 0.3,
+          "load_on_low_memory": true
+        }
+      ]
+    },
+    "music.game.nether": {
+      "category": "music",
+      "sounds": [
+        {
+          "name": "sounds/music/nether/nether1",
+          "stream": true,
+          "volume": 0.3,
+          "load_on_low_memory": true
+        },
+        {
+          "name": "sounds/music/nether/nether2",
+          "stream": true,
+          "volume": 0.3,
+          "load_on_low_memory": true
+        },
+        {
+          "name": "sounds/music/nether/nether3",
+          "stream": true,
+          "volume": 0.3,
+          "load_on_low_memory": true
+        },
+        {
+          "name": "sounds/music/nether/nether4",
+          "stream": true,
+          "volume": 0.3,
+          "load_on_low_memory": true
+        },
+        {
+          "name": "sounds/music/nether/nether5",
+          "stream": true,
+          "volume": 0.3,
+          "load_on_low_memory": true
+        },
+        {
+          "name": "sounds/music/nether/nether6",
+          "stream": true,
+          "volume": 0.3,
+          "load_on_low_memory": true
+        },
+        {
+          "name": "sounds/music/nether/nether7",
+          "stream": true,
+          "volume": 0.3,
+          "load_on_low_memory": true
+        },
+        {
+          "name": "sounds/music/nether/nether8",
+          "stream": true,
+          "volume": 0.3,
+          "load_on_low_memory": true
+        }
+      ]
+    },
+	"ambient.cave": {
+	"category": "ambient",
+	"sounds": [
+	  "sounds/ambient/cave/c1",
+	  "sounds/ambient/cave/c2",
+	  "sounds/ambient/cave/c3",
+	  "sounds/ambient/cave/c4",
+	  "sounds/ambient/cave/c5",
+	  "sounds/ambient/cave/c6",
+	  "sounds/ambient/cave/c7"
+	]
+	},
+  "random.orb": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "sounds/random/orb",
+        "load_on_low_memory": true
+      }
+    ]
+  },
+  "random.levelup": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "sounds/random/levelup",
+        "load_on_low_memory": true
+      }
+    ]
+  },
+   "click.welcome": {
+     "category": "ui",
+     "sounds": [
+       {
+         "name": "ui/Sounds/welcome",
+         "volume": 0.3,
+         "load_on_low_memory": true
+        }
+      ]
+    }
+  }
+}

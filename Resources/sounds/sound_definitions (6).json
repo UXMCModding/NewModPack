@@ -1,0 +1,158 @@
+{
+  "mob.skeleton_wolf.howl": {
+    "category": "neutral",
+    "min_distance": 20.0,
+    "sounds": [
+      {
+        "name": "sounds/mob/skeleton_wolf/howl1",
+        "volume": 0.35
+      },
+      {
+        "name": "sounds/mob/skeleton_wolf/howl2",
+        "volume": 0.35
+      }
+    ]
+  },
+  
+  "mob.skeleton_wolf.bark": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/mob/skeleton_wolf/bark1",
+      "sounds/mob/skeleton_wolf/bark2",
+      "sounds/mob/skeleton_wolf/bark3"
+    ]
+  },
+  "mob.skeleton_wolf.death": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/mob/skeleton_wolf/death"
+    ]
+  },
+  "mob.skeleton_wolf.growl": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/mob/skeleton_wolf/growl1",
+      "sounds/mob/skeleton_wolf/growl2",
+      "sounds/mob/skeleton_wolf/growl3"
+    ]
+  },
+  "mob.skeleton_wolf.hurt": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/mob/skeleton_wolf/hurt1",
+      "sounds/mob/skeleton_wolf/hurt2",
+      "sounds/mob/skeleton_wolf/hurt3"
+    ]
+  },
+  "mob.skeleton_wolf.panting": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/mob/skeleton_wolf/panting"
+    ]
+  },
+  "mob.skeleton_wolf.shake": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/mob/skeleton_wolf/shake"
+    ]
+  },
+  "mob.skeleton_wolf.step": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/mob/skeleton_wolf/step1",
+      "sounds/mob/skeleton_wolf/step2",
+      "sounds/mob/skeleton_wolf/step3",
+      "sounds/mob/skeleton_wolf/step4",
+      "sounds/mob/skeleton_wolf/step5"
+    ]
+  },
+  "mob.skeleton_wolf.whine": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/mob/skeleton_wolf/whine"
+    ]
+  },
+  "mob.mwolf.idle": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/mob/mwolf/bark1",
+      "sounds/mob/mwolf/bark2",
+      "sounds/mob/mwolf/bark3"
+   
+    ]
+  },
+  "mob.mwolf.baby_idle": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/mob/mwolf/baby_bark1",
+      "sounds/mob/mwolf/baby_bark2",
+      "sounds/mob/mwolf/baby_bark3"
+   
+    ]
+  },
+  "mob.mskeletonwolf.baby_idle": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/mob/mskeletonwolf/baby_bark1",
+      "sounds/mob/mskeletonwolf/baby_bark2",
+      "sounds/mob/mskeletonwolf/baby_bark3"
+   
+    ]
+  },
+  "mob.mwolf.bite": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/mob/mwolf/bite1",
+      "sounds/mob/mwolf/bite2",
+      "sounds/mob/mwolf/bite3"
+   
+    ]
+  },
+
+
+  "mob.mwolf.hurt": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/mob/mwolf/hurt1",
+      "sounds/mob/mwolf/hurt2",
+      "sounds/mob/mwolf/hurt3"
+      
+    ]
+  },
+   "mob.mwolf.death": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/mob/mwolf/death"
+
+    ]   
+       
+   },
+   "mob.mskeletonwolf.idle": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/mob/mskeletonwolf/say1",
+      "sounds/mob/mskeletonwolf/say2",
+      "sounds/mob/mskeletonwolf/say3",
+      "sounds/mob/mskeletonwolf/say4"
+   
+    ]
+  },
+  "mob.mskeletonwolf.hurt": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/mob/mskeletonwolf/hurt1",
+      "sounds/mob/mskeletonwolf/hurt2",
+      "sounds/mob/mskeletonwolf/hurt3",
+      "sounds/mob/mskeletonwolf/hurt4"
+   
+    ]
+  },
+  
+  "mob.mskeletonwolf.death": {
+    "category": "hostile",
+    "sounds": [
+      "sounds/mob/mskeletonwolf/death"
+   
+    ]
+  }
+}

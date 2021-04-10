@@ -1,0 +1,206 @@
+{
+  "hk416shoot": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/guns/hk416/hk416shoot"
+    ]
+  },
+  "hk416_reloading": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/guns/hk416/hk416_reloading"
+    ]
+  },
+  "m4a1shoot": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/guns/m4a1/m4a1shoot"
+    ]
+  },
+  "m4a1_reloading": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/guns/m4a1/m4a1_reloading"
+    ]
+  },
+  "m16a2shoot": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/guns/m16a2/m16a2shoot"
+    ]
+  },
+  "m16a2_reloading": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/guns/m16a2/m16a2_reloading"
+    ]
+  },
+  "scarshoot": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/guns/scar/scarshoot"
+    ]
+  },
+  "scar_reloading": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/guns/scar/scar_reloading"
+    ]
+  },
+  "fn15shoot": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/guns/fn15/fn15shoot"
+    ]
+  },
+  "fn15_reloading": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/guns/fn15/fn15_reloading"
+    ]
+  },
+  "deagleshoot": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/guns/deagle/deagleshoot"
+    ]
+  },
+  "deagle_reloading": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/guns/deagle/deagle_reloading"
+    ]
+  },
+  "dvectorshoot": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/guns/dvector/dvectorshoot"
+    ]
+  },
+  "dvector_reloading": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/guns/dvector/dvector_reloading"
+    ]
+  },
+  "tacm4shoot": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/guns/tacm4/tacm4shoot"
+    ]
+  },
+  "tacm4_reloading": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/guns/tacm4/tacm4_reloading"
+    ]
+  },
+  "aa12shoot": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/guns/aa12/aa12shoot"
+    ]
+  },
+  "aa12_reloading": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/guns/aa12/aa12_reloading"
+    ]
+  },
+  "g36cshoot": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/guns/g36c/g36cshoot"
+    ]
+  },
+  "g36c_reloading": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/guns/g36c/g36c_reloading"
+    ]
+  },
+  "auga3shoot": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/guns/auga3/auga3shoot"
+    ]
+  },
+  "auga3_reloading": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/guns/auga3/auga3_reloading"
+    ]
+  },
+  "ak47shoot": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/guns/ak47/ak47shoot"
+    ]
+  },
+  "ak47_reloading": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/guns/ak47/ak47_reloading"
+    ]
+  },
+  "dm9shoot": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/guns/dm9/dm9shoot"
+    ]
+  },
+  "dm9_reloading": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/guns/dm9/dm9_reloading"
+    ]
+  },
+  "m9shoot": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/guns/m9/m9shoot"
+    ]
+  },
+  "m9_reloading": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/guns/m9/m9_reloading"
+    ]
+  },
+  "glockshoot": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/guns/glock/glockshoot"
+    ]
+  },
+  "glock_reloading": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/guns/glock/glock_reloading"
+    ]
+  },
+  "uzishoot": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/guns/uzi/uzishoot"
+    ]
+  },
+  "uzi_reloading": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/guns/uzi/uzi_reloading"
+    ]
+  },
+  "vectorshoot": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/guns/vector/vectorshoot"
+    ]
+  },
+  "vector_reloading": {
+    "category": "neutral",
+    "sounds": [
+      "sounds/guns/vector/vector_reloading"
+    ]
+  }
+}
