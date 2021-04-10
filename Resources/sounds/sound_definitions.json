@@ -1,710 +1,682 @@
 {
-  "gta.wasted": {
-    "category": "music",
-    "sounds": [
-      "sounds/gta/gtawasted"
-    ]
-  },
-  "gta.train": {
-    "category": "music",
-    "sounds": [
-      "sounds/gta/train"
-    ]
-  },
-  "halo.assault.assault": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/assault/assault"
-    ]
-  },
-  "halo.assault.bombarmed": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/assault/bombarmed"
-    ]
-  },
-  "halo.assault.bombdetonated": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/assault/bombdetonated"
-    ]
-  },
-  "halo.assault.bombdisarmed": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/assault/bombdisarmed"
-    ]
-  },
-  "halo.assault.bombdropped": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/assault/bombdropped"
-    ]
-  },
-  "halo.assault.bombreset": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/assault/bombreset"
-    ]
-  },
-  "halo.assault.bombreturned": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/assault/bombreturned"
-    ]
-  },
-  "halo.assault.bombtaken": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/assault/bombtaken"
-    ]
-  },
-  "halo.ctf.capturetheflag": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/ctf/capturetheflag"
-    ]
-  },
-  "halo.ctf.defense": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/ctf/defense"
-    ]
-  },
-  "halo.ctf.flagcaptured": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/ctf/flagcaptured"
-    ]
-  },
-  "halo.ctf.flagdropped": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/ctf/flagdropped"
-    ]
-  },
-  "halo.ctf.flagrecovered": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/ctf/flagrecovered"
-    ]
-  },
-  "halo.ctf.flagreset": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/ctf/flagreset"
-    ]
-  },
-  "halo.ctf.flagstolen": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/ctf/flagstolen"
-    ]
-  },
-  "halo.ctf.flagtaken": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/ctf/flagtaken"
-    ]
-  },
-  "halo.ctf.offense": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/ctf/offense"
-    ]
-  },
-  "halo.infection.infected": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/infection/infected"
-    ]
-  },
-  "halo.infection.lastmanstanding": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/infection/lastmanstanding"
-    ]
-  },
-  "halo.infection.newzombie": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/infection/newzombie"
-    ]
-  },
-  "halo.juggernaut.destinationmoved": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/juggernaut/destinationmoved"
-    ]
-  },
-  "halo.juggernaut.juggernaut": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/juggernaut/juggernaut"
-    ]
-  },
-  "halo.juggernaut.newjuggernaut": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/juggernaut/newjuggernaut"
-    ]
-  },
-  "halo.kth.hillcontested": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/kth/hillcontested"
-    ]
-  },
-  "halo.kth.hillcontrolled": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/kth/hillcontrolled"
-    ]
-  },
-  "halo.kth.hillmoved": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/kth/hillmoved"
-    ]
-  },
-  "halo.kth.kingofthehill": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/kth/kingofthehill"
-    ]
-  },
-  "halo.misc.perfection": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/misc/perfection"
-    ]
-  },
-  "halo.oddball.balldropped": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/oddball/balldropped"
-    ]
-  },
-  "halo.oddball.ballreset": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/oddball/ballreset"
-    ]
-  },
-  "halo.oddball.balltaken": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/oddball/balltaken"
-    ]
-  },
-  "halo.oddball.oddball": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/oddball/oddball"
-    ]
-  },
-  "halo.oddball.playball": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/oddball/playball"
-    ]
-  },
-  "halo.slayer.slayer": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/slayer/slayer"
-    ]
-  },
-  "halo.slayer.targetchanged": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/slayer/targetchanged"
-    ]
-  },
-  "halo.territories.territories": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/territories/territories"
-    ]
-  },
-  "halo.territories.territorycaptured": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/territories/territorycaptured"
-    ]
-  },
-  "halo.territories.territorylost": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/territories/territorylost"
-    ]
-  },
-  "halo.vip.newvip": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/vip/newvip"
-    ]
-  },
-  "halo.vip.vipkilled": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/vip/vipkilled"
-    ]
-  },
-  "halo.flavor.doublekill": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/flavor/doublekill"
-    ]
-  },
-  "halo.flavor.extermination": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/flavor/extermination"
-    ]
-  },
-  "halo.flavor.hailtotheking": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/flavor/hailtotheking"
-    ]
-  },
-  "halo.flavor.hellsjanitor": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/flavor/hellsjanitor"
-    ]
-  },
-  "halo.flavor.infectionspree": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/flavor/infectionspree"
-    ]
-  },
-  "halo.flavor.invincible": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/flavor/invincible"
-    ]
-  },
-  "halo.flavor.juggernautspree": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/flavor/juggernautspree"
-    ]
-  },
-  "halo.flavor.killimanjaro": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/flavor/killimanjaro"
-    ]
-  },
-  "halo.flavor.killingfrenzy": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/flavor/killingfrenzy"
-    ]
-  },
-  "halo.flavor.killingspree": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/flavor/killingspree"
-    ]
-  },
-  "halo.flavor.killionaire": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/flavor/killionaire"
-    ]
-  },
-  "halo.flavor.killjoy": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/flavor/killjoy"
-    ]
-  },
-  "halo.flavor.killpocalypse": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/flavor/killpocalypse"
-    ]
-  },
-  "halo.flavor.killtacular": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/flavor/killtacular"
-    ]
-  },
-  "halo.flavor.killtastrophe": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/flavor/killtastrophe"
-    ]
-  },
-  "halo.flavor.killtrocity": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/flavor/killtrocity"
-    ]
-  },
-  "halo.flavor.mmmbrains": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/flavor/mmmbrains"
-    ]
-  },
-  "halo.flavor.openseason": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/flavor/openseason"
-    ]
-  },
-  "halo.flavor.overkill": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/flavor/overkill"
-    ]
-  },
-  "halo.flavor.rampage": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/flavor/rampage"
-    ]
-  },
-  "halo.flavor.runningriot": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/flavor/runningriot"
-    ]
-  },
-  "halo.flavor.sharpshooter": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/flavor/sharpshooter"
-    ]
-  },
-  "halo.flavor.shotgunspree": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/flavor/shotgunspree"
-    ]
-  },
-  "halo.flavor.slicendice": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/flavor/slicendice"
-    ]
-  },
-  "halo.flavor.sniperspree": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/flavor/sniperspree"
-    ]
-  },
-  "halo.flavor.splatterspree": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/flavor/splatterspree"
-    ]
-  },
-  "halo.flavor.swordspree": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/flavor/swordspree"
-    ]
-  },
-  "halo.flavor.triplekill": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/flavor/triplekill"
-    ]
-  },
-  "halo.flavor.unstoppable": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/flavor/unstoppable"
-    ]
-  },
-  "halo.flavor.untouchable": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/flavor/untouchable"
-    ]
-  },
-  "halo.flavor.carspree": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/flavor/carspree"
-    ]
-  },
-  "halo.flavor.zombiekillingspree": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/flavor/zombiekillingspree"
-    ]
-  },
-  "halo.general.betrayal": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/general/betrayal"
-    ]
-  },
-  "halo.general.betrayed": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/general/betrayed"
-    ]
-  },
-  "halo.general.fifteenminsremaining": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/general/fifteenminsremaining"
-    ]
-  },
-  "halo.general.fiveminsremaining": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/general/fiveminsremaining"
-    ]
-  },
-  "halo.general.gainedthelead": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/general/gainedthelead"
-    ]
-  },
-  "halo.general.gameover": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/general/gameover"
-    ]
-  },
-  "halo.general.oneminremaining": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/general/oneminremaining"
-    ]
-  },
-  "halo.general.roundover": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/general/roundover"
-    ]
-  },
-  "halo.general.suddendeath": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/general/suddendeath"
-    ]
-  },
-  "halo.general.suicide": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/general/suicide"
-    ]
-  },
-  "halo.general.teammategained": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/general/teammategained"
-    ]
-  },
-  "halo.general.tenpointsremaining": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/general/tenpointsremaining"
-    ]
-  },
-  "halo.general.tenpointstowin": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/general/tenpointstowin"
-    ]
-  },
-  "halo.general.tensecsremaining": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/general/tensecsremaining"
-    ]
-  },
-  "halo.general.thirtyminsremaining": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/general/thirtyminsremaining"
-    ]
-  },
-  "halo.general.thirtysecsremaining": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/general/thirtysecsremaining"
-    ]
-  },
-  "halo.general.twentyfivepointsremaining": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/general/twentyfivepointsremaining"
-    ]
-  },
-  "halo.general.twentyfivepointstowin": {
-    "category": "music",
-    "sounds": [
-      "sounds/halo/general/twentyfivepointstowin"
-    ]
-  },
-  "music.speedrun": {
-    "category": "music",
-    "sounds": [
-      "sounds/other/speedrun"
-    ]
-  },
-  "music.stickbug": {
-    "category": "music",
-    "sounds": [
-      "sounds/other/stickbug"
-    ]
-  },
-  "music.fortunateson": {
-    "category": "music",
-    "sounds": [
-      "sounds/other/fortunateson"
-    ]
-  },
-  "meme.missionpassed": {
-    "category": "music",
-    "sounds": [
-      "sounds/meme/missionpassed"
-    ]
-  },
-  "meme.amongus": {
-    "category": "music",
-    "sounds": [
-      "sounds/meme/amongus"
-    ]
-  },
-  "meme.deadbody": {
-    "category": "music",
-    "sounds": [
-      "sounds/meme/deadbody"
-    ]
-  },
-  "meme.witch": {
-    "category": "music",
-    "sounds": [
-      "sounds/meme/l4dwitch"
-    ]
-  },
-  "meme.oof": {
-    "category": "music",
-    "sounds": [
-      "sounds/meme/oof"
-    ]
-  },
-  "meme.mineoof": {
-    "category": "music",
-    "sounds": [
-      "sounds/meme/mineoof"
-    ]
-  },
-    "music.coconutmall": {
-      "category": "music",
-      "sounds": [
-      "sounds/moremusic/coconutmall"
-    ]
-  },
+    "gta.countdown": {
+        "category": "music",
+        "sounds": ["sounds/music/countdown"]
+    },
+    "gta.train": {
+        "category": "music",
+        "sounds": ["sounds/gta/train"]
+    },
+    "gta.wasted": {
+        "category": "music",
+        "sounds": ["sounds/gta/gtawasted"]
+    },
+    "halo.assault.assault": {
+        "category": "music",
+        "sounds": ["sounds/halo/assault/assault"]
+    },
+    "halo.assault.bombarmed": {
+        "category": "music",
+        "sounds": ["sounds/halo/assault/bombarmed"]
+    },
+    "halo.assault.bombdetonated": {
+        "category": "music",
+        "sounds": ["sounds/halo/assault/bombdetonated"]
+    },
+    "halo.assault.bombdisarmed": {
+        "category": "music",
+        "sounds": ["sounds/halo/assault/bombdisarmed"]
+    },
+    "halo.assault.bombdropped": {
+        "category": "music",
+        "sounds": ["sounds/halo/assault/bombdropped"]
+    },
+    "halo.assault.bombreset": {
+        "category": "music",
+        "sounds": ["sounds/halo/assault/bombreset"]
+    },
+    "halo.assault.bombreturned": {
+        "category": "music",
+        "sounds": ["sounds/halo/assault/bombreturned"]
+    },
+    "halo.assault.bombtaken": {
+        "category": "music",
+        "sounds": ["sounds/halo/assault/bombtaken"]
+    },
+    "halo.ctf.capturetheflag": {
+        "category": "music",
+        "sounds": ["sounds/halo/ctf/capturetheflag"]
+    },
+    "halo.ctf.defense": {
+        "category": "music",
+        "sounds": ["sounds/halo/ctf/defense"]
+    },
+    "halo.ctf.flagcaptured": {
+        "category": "music",
+        "sounds": ["sounds/halo/ctf/flagcaptured"]
+    },
+    "halo.ctf.flagdropped": {
+        "category": "music",
+        "sounds": ["sounds/halo/ctf/flagdropped"]
+    },
+    "halo.ctf.flagrecovered": {
+        "category": "music",
+        "sounds": ["sounds/halo/ctf/flagrecovered"]
+    },
+    "halo.ctf.flagreset": {
+        "category": "music",
+        "sounds": ["sounds/halo/ctf/flagreset"]
+    },
+    "halo.ctf.flagstolen": {
+        "category": "music",
+        "sounds": ["sounds/halo/ctf/flagstolen"]
+    },
+    "halo.ctf.flagtaken": {
+        "category": "music",
+        "sounds": ["sounds/halo/ctf/flagtaken"]
+    },
+    "halo.ctf.offense": {
+        "category": "music",
+        "sounds": ["sounds/halo/ctf/offense"]
+    },
+    "halo.flavor.carspree": {
+        "category": "music",
+        "sounds": ["sounds/halo/flavor/carspree"]
+    },
+    "halo.flavor.doublekill": {
+        "category": "music",
+        "sounds": ["sounds/halo/flavor/doublekill"]
+    },
+    "halo.flavor.extermination": {
+        "category": "music",
+        "sounds": ["sounds/halo/flavor/extermination"]
+    },
+    "halo.flavor.hailtotheking": {
+        "category": "music",
+        "sounds": ["sounds/halo/flavor/hailtotheking"]
+    },
+    "halo.flavor.hellsjanitor": {
+        "category": "music",
+        "sounds": ["sounds/halo/flavor/hellsjanitor"]
+    },
+    "halo.flavor.infectionspree": {
+        "category": "music",
+        "sounds": ["sounds/halo/flavor/infectionspree"]
+    },
+    "halo.flavor.invincible": {
+        "category": "music",
+        "sounds": ["sounds/halo/flavor/invincible"]
+    },
+    "halo.flavor.juggernautspree": {
+        "category": "music",
+        "sounds": ["sounds/halo/flavor/juggernautspree"]
+    },
+    "halo.flavor.killimanjaro": {
+        "category": "music",
+        "sounds": ["sounds/halo/flavor/killimanjaro"]
+    },
+    "halo.flavor.killingfrenzy": {
+        "category": "music",
+        "sounds": ["sounds/halo/flavor/killingfrenzy"]
+    },
+    "halo.flavor.killingspree": {
+        "category": "music",
+        "sounds": ["sounds/halo/flavor/killingspree"]
+    },
+    "halo.flavor.killionaire": {
+        "category": "music",
+        "sounds": ["sounds/halo/flavor/killionaire"]
+    },
+    "halo.flavor.killjoy": {
+        "category": "music",
+        "sounds": ["sounds/halo/flavor/killjoy"]
+    },
+    "halo.flavor.killpocalypse": {
+        "category": "music",
+        "sounds": ["sounds/halo/flavor/killpocalypse"]
+    },
+    "halo.flavor.killtacular": {
+        "category": "music",
+        "sounds": ["sounds/halo/flavor/killtacular"]
+    },
+    "halo.flavor.killtastrophe": {
+        "category": "music",
+        "sounds": ["sounds/halo/flavor/killtastrophe"]
+    },
+    "halo.flavor.killtrocity": {
+        "category": "music",
+        "sounds": ["sounds/halo/flavor/killtrocity"]
+    },
+    "halo.flavor.mmmbrains": {
+        "category": "music",
+        "sounds": ["sounds/halo/flavor/mmmbrains"]
+    },
+    "halo.flavor.openseason": {
+        "category": "music",
+        "sounds": ["sounds/halo/flavor/openseason"]
+    },
+    "halo.flavor.overkill": {
+        "category": "music",
+        "sounds": ["sounds/halo/flavor/overkill"]
+    },
+    "halo.flavor.rampage": {
+        "category": "music",
+        "sounds": ["sounds/halo/flavor/rampage"]
+    },
+    "halo.flavor.runningriot": {
+        "category": "music",
+        "sounds": ["sounds/halo/flavor/runningriot"]
+    },
+    "halo.flavor.sharpshooter": {
+        "category": "music",
+        "sounds": ["sounds/halo/flavor/sharpshooter"]
+    },
+    "halo.flavor.shotgunspree": {
+        "category": "music",
+        "sounds": ["sounds/halo/flavor/shotgunspree"]
+    },
+    "halo.flavor.slicendice": {
+        "category": "music",
+        "sounds": ["sounds/halo/flavor/slicendice"]
+    },
+    "halo.flavor.sniperspree": {
+        "category": "music",
+        "sounds": ["sounds/halo/flavor/sniperspree"]
+    },
+    "halo.flavor.splatterspree": {
+        "category": "music",
+        "sounds": ["sounds/halo/flavor/splatterspree"]
+    },
+    "halo.flavor.swordspree": {
+        "category": "music",
+        "sounds": ["sounds/halo/flavor/swordspree"]
+    },
+    "halo.flavor.triplekill": {
+        "category": "music",
+        "sounds": ["sounds/halo/flavor/triplekill"]
+    },
+    "halo.flavor.unstoppable": {
+        "category": "music",
+        "sounds": ["sounds/halo/flavor/unstoppable"]
+    },
+    "halo.flavor.untouchable": {
+        "category": "music",
+        "sounds": ["sounds/halo/flavor/untouchable"]
+    },
+    "halo.flavor.zombiekillingspree": {
+        "category": "music",
+        "sounds": ["sounds/halo/flavor/zombiekillingspree"]
+    },
+    "halo.general.betrayal": {
+        "category": "music",
+        "sounds": ["sounds/halo/general/betrayal"]
+    },
+    "halo.general.betrayed": {
+        "category": "music",
+        "sounds": ["sounds/halo/general/betrayed"]
+    },
+    "halo.general.fifteenminsremaining": {
+        "category": "music",
+        "sounds": ["sounds/halo/general/fifteenminsremaining"]
+    },
+    "halo.general.fiveminsremaining": {
+        "category": "music",
+        "sounds": ["sounds/halo/general/fiveminsremaining"]
+    },
+    "halo.general.gainedthelead": {
+        "category": "music",
+        "sounds": ["sounds/halo/general/gainedthelead"]
+    },
+    "halo.general.gameover": {
+        "category": "music",
+        "sounds": ["sounds/halo/general/gameover"]
+    },
+    "halo.general.oneminremaining": {
+        "category": "music",
+        "sounds": ["sounds/halo/general/oneminremaining"]
+    },
+    "halo.general.roundover": {
+        "category": "music",
+        "sounds": ["sounds/halo/general/roundover"]
+    },
+    "halo.general.suddendeath": {
+        "category": "music",
+        "sounds": ["sounds/halo/general/suddendeath"]
+    },
+    "halo.general.suicide": {
+        "category": "music",
+        "sounds": ["sounds/halo/general/suicide"]
+    },
+    "halo.general.teammategained": {
+        "category": "music",
+        "sounds": ["sounds/halo/general/teammategained"]
+    },
+    "halo.general.tenpointsremaining": {
+        "category": "music",
+        "sounds": ["sounds/halo/general/tenpointsremaining"]
+    },
+    "halo.general.tenpointstowin": {
+        "category": "music",
+        "sounds": ["sounds/halo/general/tenpointstowin"]
+    },
+    "halo.general.tensecsremaining": {
+        "category": "music",
+        "sounds": ["sounds/halo/general/tensecsremaining"]
+    },
+    "halo.general.thirtyminsremaining": {
+        "category": "music",
+        "sounds": ["sounds/halo/general/thirtyminsremaining"]
+    },
+    "halo.general.thirtysecsremaining": {
+        "category": "music",
+        "sounds": ["sounds/halo/general/thirtysecsremaining"]
+    },
+    "halo.general.twentyfivepointsremaining": {
+        "category": "music",
+        "sounds": ["sounds/halo/general/twentyfivepointsremaining"]
+    },
+    "halo.general.twentyfivepointstowin": {
+        "category": "music",
+        "sounds": ["sounds/halo/general/twentyfivepointstowin"]
+    },
+    "halo.infection.infected": {
+        "category": "music",
+        "sounds": ["sounds/halo/infection/infected"]
+    },
+    "halo.infection.lastmanstanding": {
+        "category": "music",
+        "sounds": ["sounds/halo/infection/lastmanstanding"]
+    },
+    "halo.infection.newzombie": {
+        "category": "music",
+        "sounds": ["sounds/halo/infection/newzombie"]
+    },
+    "halo.juggernaut.destinationmoved": {
+        "category": "music",
+        "sounds": ["sounds/halo/juggernaut/destinationmoved"]
+    },
+    "halo.juggernaut.juggernaut": {
+        "category": "music",
+        "sounds": ["sounds/halo/juggernaut/juggernaut"]
+    },
+    "halo.juggernaut.newjuggernaut": {
+        "category": "music",
+        "sounds": ["sounds/halo/juggernaut/newjuggernaut"]
+    },
+    "halo.kth.hillcontested": {
+        "category": "music",
+        "sounds": ["sounds/halo/kth/hillcontested"]
+    },
+    "halo.kth.hillcontrolled": {
+        "category": "music",
+        "sounds": ["sounds/halo/kth/hillcontrolled"]
+    },
+    "halo.kth.hillmoved": {
+        "category": "music",
+        "sounds": ["sounds/halo/kth/hillmoved"]
+    },
+    "halo.kth.kingofthehill": {
+        "category": "music",
+        "sounds": ["sounds/halo/kth/kingofthehill"]
+    },
+    "halo.misc.perfection": {
+        "category": "music",
+        "sounds": ["sounds/halo/misc/perfection"]
+    },
+    "halo.oddball.balldropped": {
+        "category": "music",
+        "sounds": ["sounds/halo/oddball/balldropped"]
+    },
+    "halo.oddball.ballreset": {
+        "category": "music",
+        "sounds": ["sounds/halo/oddball/ballreset"]
+    },
+    "halo.oddball.balltaken": {
+        "category": "music",
+        "sounds": ["sounds/halo/oddball/balltaken"]
+    },
+    "halo.oddball.oddball": {
+        "category": "music",
+        "sounds": ["sounds/halo/oddball/oddball"]
+    },
+    "halo.oddball.playball": {
+        "category": "music",
+        "sounds": ["sounds/halo/oddball/playball"]
+    },
+    "halo.slayer.slayer": {
+        "category": "music",
+        "sounds": ["sounds/halo/slayer/slayer"]
+    },
+    "halo.slayer.targetchanged": {
+        "category": "music",
+        "sounds": ["sounds/halo/slayer/targetchanged"]
+    },
+    "halo.territories.territories": {
+        "category": "music",
+        "sounds": ["sounds/halo/territories/territories"]
+    },
+    "halo.territories.territorycaptured": {
+        "category": "music",
+        "sounds": ["sounds/halo/territories/territorycaptured"]
+    },
+    "halo.territories.territorylost": {
+        "category": "music",
+        "sounds": ["sounds/halo/territories/territorylost"]
+    },
+    "halo.vip.newvip": {
+        "category": "music",
+        "sounds": ["sounds/halo/vip/newvip"]
+    },
+    "halo.vip.vipkilled": {
+        "category": "music",
+        "sounds": ["sounds/halo/vip/vipkilled"]
+    },
+    "amongus.amongus": {
+        "category": "music",
+        "sounds": ["sounds/amongus/amongus"]
+    },
+    "amongus.crewmatevictory": {
+        "category": "music",
+        "sounds": ["sounds/amongus/crewmatevictory"]
+    },
+    "amongus.deadbody": {
+        "category": "music",
+        "sounds": ["sounds/amongus/deadbody"]
+    },	
+    "amongus.dying": {
+        "category": "music",
+        "sounds": ["sounds/amongus/dying"]
+    },
+    "amongus.imposterwins": {
+        "category": "music",
+        "sounds": ["sounds/amongus/imposterwins"]
+    },
+    "amongus.meeting": {
+        "category": "music",
+        "sounds": ["sounds/amongus/meeting"]
+    },
+    "amongus.typewriter": {
+        "category": "music",
+        "sounds": ["sounds/amongus/typewriter"]
+    },
+    "amongus.vent": {
+        "category": "music",
+        "sounds": ["sounds/amongus/vent"]
+    },
+    "other.mineoof": {
+        "category": "music",
+        "sounds": ["sounds/other/mineoof"]
+    },
+    "gta.missionpassed": {
+        "category": "music",
+        "sounds": ["sounds/gta/missionpassed"]
+    },
+    "other.oof": {
+        "category": "music",
+        "sounds": ["sounds/other/oof"]
+    },
+    "other.witch": {
+        "category": "music",
+        "sounds": ["sounds/other/l4dwitch"]
+    },
+    "other.fight": {
+        "category": "music",
+        "sounds": ["sounds/other/fight"]
+    },
+    "other.rightback": {
+        "category": "music",
+        "sounds": ["sounds/other/wellberightback"]
+    },
+    "other.crickets": {
+        "category": "music",
+        "sounds": ["sounds/other/crickets"]
+    },
+    "music.8bits": {
+        "category": "music",
+        "sounds": ["sounds/music/8bits"]
+    },
+    "music.allstar": {
+        "category": "music",
+        "sounds": ["sounds/music/allstar"]
+    },
+    "music.annihilate": {
+        "category": "music",
+        "sounds": ["sounds/music/annihilate"]
+    },
+    "music.arenawar": {
+        "category": "music",
+        "sounds": ["sounds/music/arenawar"]
+    },
+    "music.bassrenaissance": {
+        "category": "music",
+        "sounds": ["sounds/music/bassrenaissance"]
+    },
+    "music.bennyhill": {
+        "category": "music",
+        "sounds": ["sounds/music/bennyhill"]
+    },
+    "music.bossfight": {
+        "category": "music",
+        "sounds": ["sounds/music/bossfight"]
+    },
     "music.boyohboy": {
-      "category": "music",
-      "sounds": [
-      "sounds/moremusic/boyohboy"
-    ]
-  },
-    "music.rattlesnake": {
-      "category": "music",
-      "sounds": [
-      "sounds/moremusic/rattlesnake"
-    ]
-  },
-    "music.tokyodrift": {
-      "category": "music",
-      "sounds": [
-      "sounds/moremusic/tokyodrift"
-    ]
-  },
-    "music.flipreset": {
-      "category": "music",
-      "sounds": [
-      "sounds/moremusic/flipreset"
-    ]
-  },
-  "music.arenawar": {
-    "category": "music",
-    "sounds": [
-      "sounds/music/arenawar"
-    ]
-  },
-  "music.heists": {
-    "category": "music",
-    "sounds": [
-      "sounds/music/heists"
-    ]
-  },
-  "music.sovietconnection": {
-    "category": "music",
-    "sounds": [
-      "sounds/music/sovietconnection"
-    ]
-  },
-  "music.ussr": {
-    "category": "music",
-    "sounds": [
-      "sounds/music/ussr"
-    ]
-  },
-  "gta.countdown": {
-    "category": "music",
-    "sounds": [
-      "sounds/music/countdown"
-    ]
-  },
-  "music.dbwouldlovethis": {
-    "category": "music",
-    "sounds": [
-      "sounds/music/dbwouldlovethis"
-    ]
-  },
-  "music.eastofall": {
-    "category": "music",
-    "sounds": [
-      "sounds/music/eastofall"
-    ]
-  },
-  "music.eiffelpower": {
-    "category": "music",
-    "sounds": [
-      "sounds/music/eiffelpower"
-    ]
-  },
-  "music.gullywax": {
-    "category": "music",
-    "sounds": [
-      "sounds/music/gullywax"
-    ]
-  },
-  "music.takeajoyride": {
-    "category": "music",
-    "sounds": [
-      "sounds/music/takeajoyride"
-    ]
-  },
-  "music.tundra": {
-    "category": "music",
-    "sounds": [
-      "sounds/music/tundra"
-    ]
-  },
-  "music.gaylord": {
-    "category": "music",
-    "sounds": [
-      "sounds/music/gaylord"
-    ]
-  }
+        "category": "music",
+        "sounds": ["sounds/music/boyohboy"]
+    },
+    "music.brass": {
+        "category": "music",
+        "sounds": ["sounds/music/brass"]
+    },
+    "music.breathofdeath": {
+        "category": "music",
+        "sounds": ["sounds/music/breathofdeath"]
+    },
+    "music.bustitout": {
+        "category": "music",
+        "sounds": ["sounds/music/bustitout"]
+    },
+    "music.cheatcodes": {
+        "category": "music",
+        "sounds": ["sounds/music/cheatcodes"]
+    },
+    "music.clubdiver": {
+        "category": "music",
+        "sounds": ["sounds/music/clubdiver"]
+    },
+    "music.coconutmall": {
+        "category": "music",
+        "sounds": ["sounds/music/coconutmall"]
+    },
+    "music.countdown": {
+        "category": "music",
+        "sounds": ["sounds/music/countdown"]
+    },
+    "music.crabrave": {
+        "category": "music",
+        "sounds": ["sounds/music/crabrave"]
+    },
+    "music.criminals": {
+        "category": "music",
+        "sounds": ["sounds/music/criminals"]
+    },
+    "music.dancetillyourdead": {
+        "category": "music",
+        "sounds": ["sounds/music/dancetillyourdead"]
+    },
+    "music.dbwouldlovethis": {
+        "category": "music",
+        "sounds": ["sounds/music/dbwouldlovethis"]
+    },
+    "music.discordcallremix": {
+        "category": "music",
+        "sounds": ["sounds/music/discordcallremix"]
+    },
+    "music.dubwoofersubstep": {
+        "category": "music",
+        "sounds": ["sounds/music/dubwoofersubstep"]
+    },
+    "music.eastofall": {
+        "category": "music",
+        "sounds": ["sounds/music/eastofall"]
+    },
+    "music.eiffelpower": {
+        "category": "music",
+        "sounds": ["sounds/music/eiffelpower"]
+    },
+    "music.bennyhill": {
+        "category": "music",
+        "sounds": ["sounds/music/bennyhill"]
+    },
+    "music.bennyhill": {
+        "category": "music",
+        "sounds": ["sounds/music/bennyhill"]
+    },
+    "music.bennyhill": {
+        "category": "music",
+        "sounds": ["sounds/music/bennyhill"]
+    },
+    "music.bennyhill": {
+        "category": "music",
+        "sounds": ["sounds/music/bennyhill"]
+    },
+    "music.bennyhill": {
+        "category": "music",
+        "sounds": ["sounds/music/bennyhill"]
+    },
+    "music.bennyhill": {
+        "category": "music",
+        "sounds": ["sounds/music/bennyhill"]
+    },
+    "music.bennyhill": {
+        "category": "music",
+        "sounds": ["sounds/music/bennyhill"]
+    },
+    "music.bennyhill": {
+        "category": "music",
+        "sounds": ["sounds/music/bennyhill"]
+    },
+    "music.bennyhill": {
+        "category": "music",
+        "sounds": ["sounds/music/bennyhill"]
+    },
+    "music.bennyhill": {
+        "category": "music",
+        "sounds": ["sounds/music/bennyhill"]
+    },
+    "music.bennyhill": {
+        "category": "music",
+        "sounds": ["sounds/music/bennyhill"]
+    },
+    "music.bennyhill": {
+        "category": "music",
+        "sounds": ["sounds/music/bennyhill"]
+    },
+    "music.bennyhill": {
+        "category": "music",
+        "sounds": ["sounds/music/bennyhill"]
+    },
+    "music.bennyhill": {
+        "category": "music",
+        "sounds": ["sounds/music/bennyhill"]
+    },
+    "music.bennyhill": {
+        "category": "music",
+        "sounds": ["sounds/music/bennyhill"]
+    },
+    "music.bennyhill": {
+        "category": "music",
+        "sounds": ["sounds/music/bennyhill"]
+    },
+    "music.bennyhill": {
+        "category": "music",
+        "sounds": ["sounds/music/bennyhill"]
+    },
+    "music.bennyhill": {
+        "category": "music",
+        "sounds": ["sounds/music/bennyhill"]
+    },
+    "music.bennyhill": {
+        "category": "music",
+        "sounds": ["sounds/music/bennyhill"]
+    },
+    "music.bennyhill": {
+        "category": "music",
+        "sounds": ["sounds/music/bennyhill"]
+    },
+    "music.bennyhill": {
+        "category": "music",
+        "sounds": ["sounds/music/bennyhill"]
+    },
+    "music.bennyhill": {
+        "category": "music",
+        "sounds": ["sounds/music/bennyhill"]
+    },
+    "music.bennyhill": {
+        "category": "music",
+        "sounds": ["sounds/music/bennyhill"]
+    },
+    "music.bennyhill": {
+        "category": "music",
+        "sounds": ["sounds/music/bennyhill"]
+    },
+    "music.bennyhill": {
+        "category": "music",
+        "sounds": ["sounds/music/bennyhill"]
+    },
+    "music.bennyhill": {
+        "category": "music",
+        "sounds": ["sounds/music/bennyhill"]
+    },
+    "music.bennyhill": {
+        "category": "music",
+        "sounds": ["sounds/music/bennyhill"]
+    },
+    "music.bennyhill": {
+        "category": "music",
+        "sounds": ["sounds/music/bennyhill"]
+    },
+    "music.bennyhill": {
+        "category": "music",
+        "sounds": ["sounds/music/bennyhill"]
+    },
+    "music.bennyhill": {
+        "category": "music",
+        "sounds": ["sounds/music/bennyhill"]
+    },
+    "music.bennyhill": {
+        "category": "music",
+        "sounds": ["sounds/music/bennyhill"]
+    },
+    "music.bennyhill": {
+        "category": "music",
+        "sounds": ["sounds/music/bennyhill"]
+    },
+    "music.bennyhill": {
+        "category": "music",
+        "sounds": ["sounds/music/bennyhill"]
+    },
+    "music.bennyhill": {
+        "category": "music",
+        "sounds": ["sounds/music/bennyhill"]
+    },
+    "music.bennyhill": {
+        "category": "music",
+        "sounds": ["sounds/music/bennyhill"]
+    },
+    "music.bennyhill": {
+        "category": "music",
+        "sounds": ["sounds/music/bennyhill"]
+    },
+    "music.bennyhill": {
+        "category": "music",
+        "sounds": ["sounds/music/bennyhill"]
+    },
+    "music.bennyhill": {
+        "category": "music",
+        "sounds": ["sounds/music/bennyhill"]
+    },
+    "music.bennyhill": {
+        "category": "music",
+        "sounds": ["sounds/music/bennyhill"]
+    }
 }
