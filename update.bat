@@ -11,8 +11,8 @@ if not exist "C:\Users\%username%\Documents\GitHub\Folder\resource_packs\Resourc
 echo You have pull the GitHub...
 pause
 ) else (
-xcopy C:\Users\%username%\Documents\GitHub\Folder\resource_packs\Resources\ C:\Users\%username%\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang\development_resource_packs\UXResources\
-xcopy C:\Users\%username%\Documents\GitHub\Folder\behavior_packs\Behavior\ C:\Users\%username%\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang\development_behavior_packs\UXBehavior\
+xcopy C:\Users\%username%\Documents\GitHub\Folder\resource_packs\Resources\ C:\Users\%username%\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang\development_resource_packs\UXResources\ /s
+xcopy C:\Users\%username%\Documents\GitHub\Folder\behavior_packs\Behavior\ C:\Users\%username%\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang\development_behavior_packs\UXBehavior\ /s
 echo Updated your pack to the GitHub version 
 type version.txt
 pause
