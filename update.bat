@@ -7,7 +7,7 @@ if not exist "C:\Users\%username%\Documents\GitHub\Folder" (
 echo You have to set the GitHub clone directory to Folder
 pause
 ) else (
-if not exist "C:\Users\%username%\Documents\GitHub\Folder\Resources" (
+if not exist "C:\Users\%username%\Documents\GitHub\Folder\resource_packs\Resources" (
 echo You have pull the GitHub...
 pause
 ) else (
