@@ -1,0 +1,18 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "NAR.",
+        "name": "NAR.",
+        "uuid": "bb666649-1851-4e1d-afdc-2092775b29c7",
+        "version": [1, 1, 7],
+        "min_engine_version": [ 1, 2, 6 ]
+    },
+    "modules": [
+        {
+            "description": "NAR.",
+            "type": "resources",
+            "uuid": "bb6a7b9f-0528-4f8c-a7c7-4fb90091b377",
+            "version": [1, 1, 7]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "ux:boss_legs",
+			"category": "equipment"
+		},
+		"components": {
+			"minecraft:creative_category": {
+				"parent": "itemGroup.name.leggings"
+			},
+			"minecraft:icon": {
+				"texture": "boss_legs",
+				"frame": 0
+			},
+			"minecraft:render_offsets": "leggings",
+        "minecraft:display_name":{
+            "value"  : "Boss Pants"
+        },
+			"minecraft:max_stack_size": 1,
+			"minecraft:foil": true,
+			"minecraft:enchantable": {
+				"value": 10,
+				"slot": "armor_legs"
+			},
+			"minecraft:damageable": {
+				"max_damage": 35,
+				"damage_chance": {
+					"min": 60,
+					"max": 100
+				},
+				"repair_items": [
+					
+					"ux:boss_legs"
+				]
+			},
+			"minecraft:knockback_resistance": {
+				"protection": 999
+			},
+			"minecraft:armor": {
+				"protection": 1000
+			},
+			"minecraft:repairable": {
+				"repair_items": [
+					{
+						"items": [
+							
+							"ux:boss_legs"
+						],
+						"repair_amount": 15
+					}
+				]
+			},
+			"minecraft:wearable": {
+				"slot": "slot.armor.legs"
+			}
+		}
+	}
+}

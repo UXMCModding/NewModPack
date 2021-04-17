@@ -1,0 +1,60 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "ux:boss_boots",
+			"category": "equipment"
+		},
+		"components": {
+			"minecraft:creative_category": {
+				"parent": "itemGroup.name.boots"
+			},
+			"minecraft:icon": {
+				"texture": "boss_boots",
+				"frame": 0
+			},
+			"minecraft:render_offsets": "boots",
+        "minecraft:display_name":{
+            "value"  : "Boss Boots"
+        },
+			"minecraft:max_stack_size": 1,
+			"minecraft:foil": true,
+			"minecraft:enchantable": {
+				"value": 10,
+				"slot": "armor_feet"
+			},
+			"minecraft:damageable": {
+				"max_damage": 100,
+				"damage_chance": {
+					"min": 60,
+					"max": 100
+				},
+				"repair_items": [
+					
+					"ux:boss_boots"
+				]
+			},
+			"minecraft:explodable": false,
+			"minecraft:knockback_resistance": {
+				"protection": 999
+			},
+			"minecraft:wearable": {
+				"slot": "slot.armor.feet"
+			},
+			"minecraft:repairable": {
+				"repair_items": [
+					{
+						"items": [
+							
+							"ux:boss_boots"
+						],
+						"repair_amount": 10
+					}
+				]
+			},
+			"minecraft:armor": {
+				"protection": 1000
+			}
+		}
+	}
+}

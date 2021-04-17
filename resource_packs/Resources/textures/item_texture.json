@@ -1,0 +1,18 @@
+{
+  "resource_pack_name": "Boss Armor",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "boss_chest": {
+      "textures": "textures/items/boss_chest"
+    },
+    "boss_helmet": {
+      "textures": "textures/items/boss_helmet"
+    },
+    "boss_legs": {
+      "textures": "textures/items/boss_legs"
+    },
+    "boss_boots": {
+      "textures": "textures/items/boss_boots"
+    }
+  }
+}
