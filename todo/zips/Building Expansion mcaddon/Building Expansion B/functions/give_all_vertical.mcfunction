@@ -1,0 +1,25 @@
+#bridge-file-version: #1
+give @p thelake:acacia_wood_vertical_slab
+give @p thelake:andesite_vertical_slab
+give @p thelake:birch_wood_vertical_slab
+give @p thelake:bricks_vertical_slab
+give @p thelake:cobblestone_vertical_slab
+give @p thelake:crimson_vertical_slab
+give @p thelake:dark_oak_wood_vertical_slab
+give @p thelake:dark_prismarine_vertical_slab
+give @p thelake:diorite_vertical_slab
+give @p thelake:granite_vertical_slab
+give @p thelake:jungle_wood_vertical_slab
+give @p thelake:mossy_cobblestone_vertical_slab
+give @p thelake:mossy_stone_brick_vertical_slab
+give @p thelake:oak_wood_vertical_slab
+give @p thelake:polished_blackstone_vertical_slab
+give @p thelake:prismarine_bricks_vertical_slab
+give @p thelake:quartz_vertical_slab
+give @p thelake:smooth_red_sandstone_vertical_slab
+give @p thelake:smooth_sandstone_vertical_slab
+give @p thelake:smooth_stone_vertical_slab
+give @p thelake:spruce_wood_vertical_slab
+give @p thelake:stone_bricks_vertical_slab
+give @p thelake:stone_vertical_slab
+give @p thelake:warped_vertical_slab

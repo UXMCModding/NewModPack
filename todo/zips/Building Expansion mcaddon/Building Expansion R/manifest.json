@@ -1,0 +1,42 @@
+{
+  "format_version" : 2,
+  "header" : {
+    "version" : [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version" : [
+      1,
+      14,
+      0
+    ],
+    "description" : "§4Created By TheLak3
+§r§linstagram: §r§3_resul_0128
+§2§lMCPEDL.com§r",
+    "name" : "Building Expansion §2R",
+    "uuid" : "145ACAEC-A368-47FD-8DBF-F6C69C6299D0"
+  },
+  "dependencies" : [
+    {
+      "version" : [
+        0,
+        0,
+        1
+      ],
+      "uuid" : "1EF96001-9AA4-4CD4-88E8-DCB3CA5E1DCF"
+    }
+  ],
+  "modules" : [
+    {
+      "version" : [
+        0,
+        0,
+        1
+      ],
+      "description" : "Example vanilla resource pack",
+      "type" : "resources",
+      "uuid" : "E34D0922-DA98-4CE4-BC7C-2227C81FE78E"
+    }
+  ]
+}

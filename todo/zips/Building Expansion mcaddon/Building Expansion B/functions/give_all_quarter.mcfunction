@@ -1,0 +1,25 @@
+#bridge-file-version: #0
+give @p thelake:acacia_wood_quarter_vertical_slab
+give @p thelake:andesite_quarter_vertical_slab
+give @p thelake:birch_wood_quarter_vertical_slab
+give @p thelake:bricks_quarter_vertical_slab
+give @p thelake:cobblestone_quarter_vertical_slab
+give @p thelake:crimson_quarter_vertical_slab
+give @p thelake:dark_oak_wood_quarter_vertical_slab
+give @p thelake:dark_prismarine_quarter_vertical_slab
+give @p thelake:diorite_quarter_vertical_slab
+give @p thelake:granite_quarter_vertical_slab
+give @p thelake:jungle_wood_quarter_vertical_slab
+give @p thelake:mossy_cobblestone_quarter_vertical_slab
+give @p thelake:mossy_stone_brick_quarter_vertical_slab
+give @p thelake:oak_wood_quarter_vertical_slab
+give @p thelake:polished_blackstone_quarter_vertical_slab
+give @p thelake:prismarine_bricks_quarter_vertical_slab
+give @p thelake:quartz_quarter_vertical_slab
+give @p thelake:smooth_red_sandstone_quarter_vertical_slab
+give @p thelake:smooth_sandstone_quarter_vertical_slab
+give @p thelake:smooth_stone_quarter_vertical_slab
+give @p thelake:spruce_wood_quarter_vertical_slab
+give @p thelake:stone_bricks_quarter_vertical_slab
+give @p thelake:stone_quarter_vertical_slab
+give @p thelake:warped_quarter_vertical_slab

@@ -1,0 +1,488 @@
+{
+	"resource_pack_name": "uxextrablocks",
+	"texture_name": "atlas.terrain",
+	"padding": 8,
+	"num_mip_levels": 4,
+	"texture_data": {
+		"acacia_wood_vertical_slab": {
+			"textures": [
+				"textures/blocks/acacia_wood_vertical_slab"
+			]
+		},
+		"andesite_vertical_slab": {
+			"textures": [
+				"textures/blocks/andesite_vertical_slab"
+			]
+		},
+		"birch_wood_vertical_slab": {
+			"textures": [
+				"textures/blocks/birch_wood_vertical_slab"
+			]
+		},
+		"bricks_vertical_slab": {
+			"textures": [
+				"textures/blocks/bricks_vertical_slab"
+			]
+		},
+		"cobblestone_vertical_slab": {
+			"textures": [
+				"textures/blocks/cobblestone_vertical_slab"
+			]
+		},
+		"crimson_vertical_slab": {
+			"textures": [
+				"textures/blocks/crimson_vertical_slab"
+			]
+		},
+		"dark_oak_wood_vertical_slab": {
+			"textures": [
+				"textures/blocks/dark_oak_wood_vertical_slab"
+			]
+		},
+		"dark_prismarine_vertical_slab": {
+			"textures": [
+				"textures/blocks/dark_prismarine_vertical_slab"
+			]
+		},
+		"diorite_vertical_slab": {
+			"textures": [
+				"textures/blocks/diorite_vertical_slab"
+			]
+		},
+		"granite_vertical_slab": {
+			"textures": [
+				"textures/blocks/granite_vertical_slab"
+			]
+		},
+		"jungle_wood_vertical_slab": {
+			"textures": [
+				"textures/blocks/jungle_wood_vertical_slab"
+			]
+		},
+		"mossy_cobblestone_vertical_slab": {
+			"textures": [
+				"textures/blocks/mossy_cobblestone_vertical_slab"
+			]
+		},
+		"mossy_stone_brick_vertical_slab": {
+			"textures": [
+				"textures/blocks/mossy_stone_brick_vertical_slab"
+			]
+		},
+		"oak_wood_vertical_slab": {
+			"textures": [
+				"textures/blocks/oak_wood_vertical_slab"
+			]
+		},
+		"polished_blackstone_vertical_slab": {
+			"textures": [
+				"textures/blocks/polished_blackstone_vertical_slab"
+			]
+		},
+		"prismarine_bricks_vertical_slab": {
+			"textures": [
+				"textures/blocks/prismarine_bricks_vertical_slab"
+			]
+		},
+		"quartz_vertical_slab": {
+			"textures": [
+				"textures/blocks/quartz_vertical_slab"
+			]
+		},
+		"smooth_red_sandstone_vertical_slab": {
+			"textures": [
+				"textures/blocks/smooth_red_sandstone_vertical_slab"
+			]
+		},
+		"smooth_sandstone_vertical_slab": {
+			"textures": [
+				"textures/blocks/smooth_sandstone_vertical_slab"
+			]		
+ },
+		"smooth_stone_vertical_slab": {
+			"textures": [
+				"textures/blocks/smooth_stone_vertical_slab"
+			]
+		},
+		"spruce_wood_vertical_slab": {
+			"textures": [
+				"textures/blocks/spruce_wood_vertical_slab"
+			]
+		},
+		"stone_bricks_vertical_slab": {
+			"textures": [
+				"textures/blocks/stone_bricks_vertical_slab"
+			]
+		},
+		"stone_vertical_slab": {
+			"textures": [
+				"textures/blocks/stone_vertical_slab"
+			]
+		},
+		"warped_vertical_slab": {
+			"textures": [
+				"textures/blocks/warped_vertical_slab"
+			]
+		},
+		"acacia_wood_joining_stairs": {
+			"textures": [
+				"textures/blocks/acacia_wood_joining_stairs"
+			]
+		},
+		"andesite_joining_stairs": {
+			"textures": [
+				"textures/blocks/andesite_joining_stairs"
+			]
+		},
+		"birch_wood_joining_stairs": {
+			"textures": [
+				"textures/blocks/birch_wood_joining_stairs"
+			]
+		},
+		"bricks_joining_stairs": {
+			"textures": [
+				"textures/blocks/bricks_joining_stairs"
+			]
+		},
+		"cobblestone_joining_stairs": {
+			"textures": [
+				"textures/blocks/cobblestone_joining_stairs"
+			]
+		},
+		"crimson_joining_stairs": {
+			"textures": [
+				"textures/blocks/crimson_joining_stairs"
+			]
+		},
+		"dark_oak_wood_joining_stairs": {
+			"textures": [
+				"textures/blocks/dark_oak_wood_joining_stairs"
+			]
+		},
+		"dark_prismarine_joining_stairs": {
+			"textures": [
+				"textures/blocks/dark_prismarine_joining_stairs"
+			]
+		},
+		"diorite_joining_stairs": {
+			"textures": [
+				"textures/blocks/diorite_joining_stairs"
+			]
+		},
+		"granite_joining_stairs": {
+			"textures": [
+				"textures/blocks/granite_joining_stairs"
+			]
+		},
+		"jungle_wood_joining_stairs": {
+			"textures": [
+				"textures/blocks/jungle_wood_joining_stairs"
+			]
+		},
+		"mossy_cobblestone_joining_stairs": {
+			"textures": [
+				"textures/blocks/mossy_cobblestone_joining_stairs"
+			]
+		},
+		"mossy_stone_brick_joining_stairs": {
+			"textures": [
+				"textures/blocks/mossy_stone_brick_joining_stairs"
+			]
+		},
+		"oak_wood_joining_stairs": {
+			"textures": [
+				"textures/blocks/oak_wood_joining_stairs"
+			]
+ },  
+		"polished_blackstone_joining_stairs": {
+			"textures": [
+				"textures/blocks/polished_blackstone_joining_stairs"
+			]
+		},
+		"prismarine_bricks_joining_stairs": {
+			"textures": [
+				"textures/blocks/prismarine_bricks_joining_stairs"
+			]
+		},
+		"quartz_joining_stairs": {
+			"textures": [
+				"textures/blocks/quartz_joining_stairs"
+			]
+		},
+		"smooth_red_sandstone_joining_stairs": {
+			"textures": [
+				"textures/blocks/smooth_red_sandstone_joining_stairs"
+			]
+		},
+		"smooth_sandstone_joining_stairs": {
+			"textures": [
+				"textures/blocks/smooth_sandstone_joining_stairs"
+			]
+		},
+		"smooth_stone_joining_stairs": {
+			"textures": [
+				"textures/blocks/smooth_stone_joining_stairs"
+			]
+		},
+		"spruce_wood_joining_stairs": {
+			"textures": [
+				"textures/blocks/spruce_wood_joining_stairs"
+			]
+		},
+		"stone_bricks_joining_stairs": {
+			"textures": [
+				"textures/blocks/stone_bricks_joining_stairs"
+			]
+		},
+		"stone_joining_stairs": {
+			"textures": [
+				"textures/blocks/stone_joining_stairs"
+			]
+		},
+		"warped_joining_stairs": {
+			"textures": [
+				"textures/blocks/warped_joining_stairs"
+			]
+		},
+		"acacia_wood_quarter_vertical_slab": {
+			"textures": [
+				"textures/blocks/acacia_wood_quarter_vertical_slab"
+			]
+		},
+		"andesite_quarter_vertical_slab": {
+			"textures": [
+				"textures/blocks/andesite_quarter_vertical_slab"
+			]
+		},
+		"birch_wood_quarter_vertical_slab": {
+			"textures": [
+				"textures/blocks/birch_wood_quarter_vertical_slab"
+			]
+		},
+		"bricks_quarter_vertical_slab": {
+			"textures": [
+				"textures/blocks/bricks_quarter_vertical_slab"
+			]
+		},
+		"cobblestone_quarter_vertical_slab": {
+			"textures": [
+				"textures/blocks/cobblestone_quarter_vertical_slab"
+			]
+		},
+		"crimson_quarter_vertical_slab": {
+			"textures": [
+				"textures/blocks/crimson_quarter_vertical_slab"
+			]
+		},
+		"dark_oak_wood_quarter_vertical_slab": {
+			"textures": [
+				"textures/blocks/dark_oak_wood_quarter_vertical_slab"
+			]
+		},
+		"dark_prismarine_quarter_vertical_slab": {
+			"textures": [
+				"textures/blocks/dark_prismarine_quarter_vertical_slab"
+			]
+		},
+		"diorite_quarter_vertical_slab": {
+			"textures": [
+				"textures/blocks/diorite_quarter_vertical_slab"
+			]
+		},
+		"granite_quarter_vertical_slab": {
+			"textures": [
+				"textures/blocks/granite_quarter_vertical_slab"
+			]
+		},
+		"jungle_wood_quarter_vertical_slab": {
+			"textures": [
+				"textures/blocks/jungle_wood_quarter_vertical_slab"
+			]
+		},
+		"mossy_cobblestone_quarter_vertical_slab": {
+			"textures": [
+				"textures/blocks/mossy_cobblestone_quarter_vertical_slab"
+			]
+		},
+		"mossy_stone_brick_quarter_vertical_slab": {
+			"textures": [
+				"textures/blocks/mossy_stone_brick_quarter_vertical_slab"
+			]
+		},
+		"oak_wood_quarter_vertical_slab": {
+			"textures": [
+				"textures/blocks/oak_wood_quarter_vertical_slab"
+			]
+		},
+		"polished_blackstone_quarter_vertical_slab": {
+			"textures": [
+				"textures/blocks/polished_blackstone_quarter_vertical_slab"
+			]
+		},
+		"prismarine_bricks_quarter_vertical_slab": {
+			"textures": [
+				"textures/blocks/prismarine_bricks_quarter_vertical_slab"
+			]
+		},
+		"quartz_quarter_vertical_slab": {
+			"textures": [
+				"textures/blocks/quartz_quarter_vertical_slab"
+			]
+		},
+		"smooth_red_sandstone_quarter_vertical_slab": {
+			"textures": [
+				"textures/blocks/smooth_red_sandstone_quarter_vertical_slab"
+			]
+		},
+		"smooth_sandstone_quarter_vertical_slab": {
+			"textures": [
+				"textures/blocks/smooth_sandstone_quarter_vertical_slab"
+			]
+		},
+		"smooth_stone_quarter_vertical_slab": {
+			"textures": [
+				"textures/blocks/smooth_stone_quarter_vertical_slab"
+			]
+		},
+		"spruce_wood_quarter_vertical_slab": {
+			"textures": [
+				"textures/blocks/spruce_wood_quarter_vertical_slab"
+			]
+		},
+		"stone_bricks_quarter_vertical_slab": {
+			"textures": [
+				"textures/blocks/stone_bricks_quarter_vertical_slab"
+			]
+		},
+		"stone_quarter_vertical_slab": {
+			"textures": [
+				"textures/blocks/stone_quarter_vertical_slab"
+			]
+		},
+		"warped_quarter_vertical_slab": {
+			"textures": [
+				"textures/blocks/warped_quarter_vertical_slab"
+			]
+		},
+		"acacia_wood_vertical_half_slab": {
+			"textures": [
+				"textures/blocks/acacia_wood_vertical_half_slab"
+			]
+		},
+		"andesite_vertical_half_slab": {
+			"textures": [
+				"textures/blocks/andesite_vertical_half_slab"
+			]
+		},
+		"birch_wood_vertical_half_slab": {
+			"textures": [
+				"textures/blocks/birch_wood_vertical_half_slab"
+			]
+		},
+		"bricks_vertical_half_slab": {
+			"textures": [
+				"textures/blocks/bricks_vertical_half_slab"
+			]
+		},
+		"cobblestone_vertical_half_slab": {
+			"textures": [
+				"textures/blocks/cobblestone_vertical_half_slab"
+			]
+		},
+		"crimson_vertical_half_slab": {
+			"textures": [
+				"textures/blocks/crimson_vertical_half_slab"
+			]
+		},
+		"dark_oak_wood_vertical_half_slab": {
+			"textures": [
+				"textures/blocks/dark_oak_wood_vertical_half_slab"
+			]
+		},
+		"dark_prismarine_vertical_half_slab": {
+			"textures": [
+				"textures/blocks/dark_prismarine_vertical_half_slab"
+			]
+		},
+		"diorite_vertical_half_slab": {
+			"textures": [
+				"textures/blocks/diorite_vertical_half_slab"
+			]
+		},
+		"granite_vertical_half_slab": {
+			"textures": [
+				"textures/blocks/granite_vertical_half_slab"
+			]
+		},
+		"jungle_wood_vertical_half_slab": {
+			"textures": [
+				"textures/blocks/jungle_wood_vertical_half_slab"
+			]
+		},
+		"mossy_cobblestone_vertical_half_slab": {
+			"textures": [
+				"textures/blocks/mossy_cobblestone_vertical_half_slab"
+			]
+		},
+		"mossy_stone_brick_vertical_half_slab": {
+			"textures": [
+				"textures/blocks/mossy_stone_brick_vertical_half_slab"
+			]
+		},
+		"oak_wood_vertical_half_slab": {
+			"textures": [
+				"textures/blocks/oak_wood_vertical_half_slab"
+			]
+		},
+		"polished_blackstone_vertical_half_slab": {
+			"textures": [
+				"textures/blocks/polished_blackstone_vertical_half_slab"
+			]
+		},
+		"prismarine_bricks_vertical_half_slab": {
+			"textures": [
+				"textures/blocks/prismarine_bricks_vertical_half_slab"
+			]
+		},
+		"quartz_vertical_half_slab": {
+			"textures": [
+				"textures/blocks/quartz_vertical_half_slab"
+			]
+		},
+		"smooth_red_sandstone_vertical_half_slab": {
+			"textures": [
+				"textures/blocks/smooth_red_sandstone_vertical_half_slab"
+			]
+		},
+		"smooth_sandstone_vertical_half_slab": {
+			"textures": [
+				"textures/blocks/smooth_sandstone_vertical_half_slab"
+			]
+		},
+		"smooth_stone_vertical_half_slab": {
+			"textures": [
+				"textures/blocks/smooth_stone_vertical_half_slab"
+			]
+		},
+		"spruce_wood_vertical_half_slab": {
+			"textures": [
+				"textures/blocks/spruce_wood_vertical_half_slab"
+			]
+		},
+		"stone_bricks_vertical_half_slab": {
+			"textures": [
+				"textures/blocks/stone_bricks_vertical_half_slab"
+			]
+		},
+		"stone_vertical_half_slab": {
+			"textures": [
+				"textures/blocks/stone_vertical_half_slab"
+			]
+		},
+		"warped_vertical_half_slab": {
+			"textures": [
+				"textures/blocks/warped_vertical_half_slab"
+			]
+		}
+	}
+}

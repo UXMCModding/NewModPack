@@ -1,0 +1,42 @@
+{
+	"header": {
+		"version": [
+			0,
+			0,
+			1
+		],
+		"min_engine_version": [
+			1,
+			14,
+			0
+		],
+		"description": "§4Created By TheLak3
+§r§linstagram: §r§3_resul_0128
+§2§lMCPEDL.com§r",
+		"name": "Building Expansion §5B",
+		"uuid": "1EF96001-9AA4-4CD4-88E8-DCB3CA5E1DCF"
+	},
+	"modules": [
+		{
+			"version": [
+				0,
+				0,
+				1
+			],
+			"description": "Example vanilla behavior pack",
+			"type": "data",
+			"uuid": "B2B23FC7-1D40-4195-8CF6-958E768ED367"
+		}
+	],
+	"format_version": 2,
+	"dependencies": [
+		{
+			"version": [
+				0,
+				0,
+				1
+			],
+			"uuid": "145ACAEC-A368-47FD-8DBF-F6C69C6299D0"
+		}
+	]
+}

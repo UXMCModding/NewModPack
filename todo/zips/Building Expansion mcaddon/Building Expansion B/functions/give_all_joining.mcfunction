@@ -1,0 +1,25 @@
+#bridge-file-version: #0
+give @p thelake:acacia_wood_joining_stairs
+give @p thelake:andesite_joining_stairs
+give @p thelake:birch_wood_joining_stairs
+give @p thelake:bricks_joining_stairs
+give @p thelake:cobblestone_joining_stairs
+give @p thelake:crimson_joining_stairs
+give @p thelake:dark_oak_wood_joining_stairs
+give @p thelake:dark_prismarine_joining_stairs
+give @p thelake:diorite_joining_stairs
+give @p thelake:granite_joining_stairs
+give @p thelake:jungle_wood_joining_stairs
+give @p thelake:mossy_cobblestone_joining_stairs
+give @p thelake:mossy_stone_brick_joining_stairs
+give @p thelake:oak_wood_joining_stairs
+give @p thelake:polished_blackstone_joining_stairs
+give @p thelake:prismarine_bricks_joining_stairs
+give @p thelake:quartz_joining_stairs
+give @p thelake:smooth_red_sandstone_joining_stairs
+give @p thelake:smooth_sandstone_joining_stairs
+give @p thelake:smooth_stone_joining_stairs
+give @p thelake:spruce_wood_joining_stairs
+give @p thelake:stone_bricks_joining_stairs
+give @p thelake:stone_joining_stairs
+give @p thelake:warped_joining_stairs

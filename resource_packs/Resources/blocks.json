@@ -1,0 +1,391 @@
+{
+	"format_version": [
+		1,
+		1,
+		0
+	],
+	"uxextrablocks:acacia_wood_vertical_slab": {
+		"sound": "wood",
+		"textures": "acacia_wood_vertical_slab"
+	},
+	"uxextrablocks:andesite_vertical_slab": {
+		"sound": "stone",
+		"textures": "andesite_vertical_slab"
+	},
+	"uxextrablocks:birch_wood_vertical_slab": {
+		"sound": "wood",
+		"textures": "birch_vertical_slab"
+	},
+	"uxextrablocks:bricks_vertical_slab": {
+		"sound": "brick",
+		"textures": "bricks_vertical_slab"
+	},
+	"uxextrablocks:cobblestone_vertical_slab": {
+		"sound": "stone",
+		"textures": "cobblestone_vertical_slab"
+	},
+	"uxextrablocks:crimson_vertical_slab": {
+		"sound": "wood",
+		"textures": "crimson_vertical_slab"
+	},
+	"uxextrablocks:dark_oak_wood_vertical_slab": {
+		"sound": "wood",
+		"textures": "dark_oak_wood_vertical_slab"
+	},
+	"uxextrablocks:dark_prismarine_vertical_slab": {
+		"sound": "stone",
+		"textures": "dark_prismarine_vertical_slab"
+	},
+	"uxextrablocks:diorite_vertical_slab": {
+		"sound": "stone",
+		"textures": "diorite_vertical_slab"
+	},
+	"uxextrablocks:granite_vertical_slab": {
+		"sound": "stone",
+		"textures": "granite_vertical_slab"
+	},
+	"uxextrablocks:jungle_wood_vertical_slab": {
+		"sound": "wood",
+		"textures": "jungle_wood_vertical_slab"
+	},
+	"uxextrablocks:mossy_cobblestone_vertical_slab": {
+		"sound": "stone",
+		"textures": "mossy_cobblestone_vertical_slab"
+	},
+	"uxextrablocks:mossy_stone_brick_vertical_slab": {
+		"sound": "stone",
+		"textures": "mossy_stone_brick_vertical_slab"
+	},
+	"uxextrablocks:oak_wood_vertical_slab": {
+		"sound": "wood",
+		"textures": "oak_wood_vertical_slab"
+	},
+	"uxextrablocks:polished_blackstone_vertical_slab": {
+		"sound": "stone",
+		"textures": "polished_blackstone_vertical_slab"
+	},
+	"uxextrablocks:prismarine_bricks_vertical_slab": {
+		"sound": "stone",
+		"textures": "prismarine_bricks_vertical_slab"
+	},
+	"uxextrablocks:quartz_vertical_slab": {
+		"sound": "stone",
+		"textures": "quartz_vertical_slab"
+	},
+	"uxextrablocks:smooth_red_sandstone_vertical_slab": {
+		"sound": "stone",
+		"textures": "smooth_red_sandstone_vertical_slab"
+	},
+	"uxextrablocks:smooth_sandstone_vertical_slab": {
+		"sound": "stone",
+		"textures": "smooth_sandstone_vertical_slab"
+	},
+	"uxextrablocks:smooth_stone_vertical_slab": {
+		"sound": "stone",
+		"textures": "smooth_stone_vertical_slab"
+	},
+	"uxextrablocks:spruce_wood_vertical_slab": {
+		"sound": "wood",
+		"textures": "spruce_wood_vertical_slab"
+	},
+	"uxextrablocks:stone_bricks_vertical_slab": {
+		"sound": "stone",
+		"textures": "stone_bricks_vertical_slab"
+	},
+	"uxextrablocks:stone_vertical_slab": {
+		"sound": "stone",
+		"textures": "stone_vertical_slab"
+	},
+	"uxextrablocks:warped_vertical_slab": {
+		"sound": "wood",
+		"textures": "warped_vertical_slab"
+	},
+	"uxextrablocks:acacia_wood_joining_stairs": {
+		"sound": "wood",
+		"textures": "acacia_wood_joining_stairs"
+	},
+	"uxextrablocks:andesite_joining_stairs": {
+		"sound": "stone",
+		"textures": "andesite_joining_stairs"
+	},
+	"uxextrablocks:birch_wood_joining_stairs": {
+		"sound": "wood",
+		"textures": "birch_joining_stairs"
+	},
+	"uxextrablocks:bricks_joining_stairs": {
+		"sound": "brick",
+		"textures": "bricks_joining_stairs"
+	},
+	"uxextrablocks:cobblestone_joining_stairs": {
+		"sound": "stone",
+		"textures": "cobblestone_joining_stairs"
+	},
+	"uxextrablocks:crimson_joining_stairs": {
+		"sound": "wood",
+		"textures": "crimson_joining_stairs"
+	},
+	"uxextrablocks:dark_oak_wood_joining_stairs": {
+		"sound": "wood",
+		"textures": "dark_oak_wood_joining_stairs"
+	},
+	"uxextrablocks:dark_prismarine_joining_stairs": {
+		"sound": "stone",
+		"textures": "dark_prismarine_joining_stairs"
+	},
+	"uxextrablocks:diorite_joining_stairs": {
+		"sound": "stone",
+		"textures": "diorite_joining_stairs"
+	},
+	"uxextrablocks:granite_joining_stairs": {
+		"sound": "stone",
+		"textures": "granite_joining_stairs"
+	},
+	"uxextrablocks:jungle_wood_joining_stairs": {
+		"sound": "wood",
+		"textures": "jungle_wood_joining_stairs"
+	},
+	"uxextrablocks:mossy_cobblestone_joining_stairs": {
+		"sound": "stone",
+		"textures": "mossy_cobblestone_joining_stairs"
+	},
+	"uxextrablocks:mossy_stone_brick_joining_stairs": {
+		"sound": "stone",
+		"textures": "mossy_stone_brick_joining_stairs"
+	},
+	"uxextrablocks:oak_wood_joining_stairs": {
+		"sound": "wood",
+		"textures": "oak_wood_joining_stairs"
+	},
+	"uxextrablocks:polished_blackstone_joining_stairs": {
+		"sound": "stone",
+		"textures": "polished_blackstone_joining_stairs"
+	},
+	"uxextrablocks:prismarine_bricks_joining_stairs": {
+		"sound": "stone",
+		"textures": "prismarine_bricks_joining_stairs"
+	},
+	"uxextrablocks:quartz_joining_stairs": {
+		"sound": "stone",
+		"textures": "quartz_joining_stairs"
+	},
+	"uxextrablocks:smooth_red_sandstone_joining_stairs": {
+		"sound": "stone",
+		"textures": "smooth_red_sandstone_joining_stairs"
+	},
+	"uxextrablocks:smooth_sandstone_joining_stairs": {
+		"sound": "stone",
+		"textures": "smooth_sandstone_joining_stairs"
+	},
+	"uxextrablocks:smooth_stone_joining_stairs": {
+		"sound": "stone",
+		"textures": "smooth_stone_joining_stairs"
+	},
+	"uxextrablocks:spruce_wood_joining_stairs": {
+		"sound": "wood",
+		"textures": "spruce_wood_joining_stairs"
+	},
+	"uxextrablocks:stone_bricks_joining_stairs": {
+		"sound": "stone",
+		"textures": "stone_bricks_joining_stairs"
+	},
+	"uxextrablocks:stone_joining_stairs": {
+		"sound": "stone",
+		"textures": "stone_joining_stairs"
+	},
+	"uxextrablocks:warped_joining_stairs": {
+		"sound": "wood",
+		"textures": "warped_joining_stairs"
+	},
+	"uxextrablocks:acacia_wood_quarter_vertical_slab": {
+		"sound": "wood",
+		"textures": "acacia_wood_quarter_vertical_slab"
+	},
+	"uxextrablocks:andesite_quarter_vertical_slab": {
+		"sound": "stone",
+		"textures": "andesite_quarter_vertical_slab"
+	},
+	"uxextrablocks:birch_wood_quarter_vertical_slab": {
+		"sound": "wood",
+		"textures": "birch_quarter_vertical_slab"
+	},
+	"uxextrablocks:bricks_quarter_vertical_slab": {
+		"sound": "brick",
+		"textures": "bricks_quarter_vertical_slab"
+	},
+	"uxextrablocks:cobblestone_quarter_vertical_slab": {
+		"sound": "stone",
+		"textures": "cobblestone_quarter_vertical_slab"
+	},
+	"uxextrablocks:crimson_quarter_vertical_slab": {
+		"sound": "wood",
+		"textures": "crimson_quarter_vertical_slab"
+	},
+	"uxextrablocks:dark_oak_wood_quarter_vertical_slab": {
+		"sound": "wood",
+		"textures": "dark_oak_wood_quarter_vertical_slab"
+	},
+	"uxextrablocks:dark_prismarine_quarter_vertical_slab": {
+		"sound": "stone",
+		"textures": "dark_prismarine_quarter_vertical_slab"
+	},
+	"uxextrablocks:diorite_quarter_vertical_slab": {
+		"sound": "stone",
+		"textures": "diorite_quarter_vertical_slab"
+	},
+	"uxextrablocks:granite_quarter_vertical_slab": {
+		"sound": "stone",
+		"textures": "granite_quarter_vertical_slab"
+	},
+	"uxextrablocks:jungle_wood_quarter_vertical_slab": {
+		"sound": "wood",
+		"textures": "jungle_wood_quarter_vertical_slab"
+	},
+	"uxextrablocks:mossy_cobblestone_quarter_vertical_slab": {
+		"sound": "stone",
+		"textures": "mossy_cobblestone_quarter_vertical_slab"
+	},
+	"uxextrablocks:mossy_stone_brick_quarter_vertical_slab": {
+		"sound": "stone",
+		"textures": "mossy_stone_brick_quarter_vertical_slab"
+	},
+	"uxextrablocks:oak_wood_quarter_vertical_slab": {
+		"sound": "wood",
+		"textures": "oak_wood_quarter_vertical_slab"
+	},
+	"uxextrablocks:polished_blackstone_quarter_vertical_slab": {
+		"sound": "stone",
+		"textures": "polished_blackstone_quarter_vertical_slab"
+	},
+	"uxextrablocks:prismarine_bricks_quarter_vertical_slab": {
+		"sound": "stone",
+		"textures": "prismarine_bricks_quarter_vertical_slab"
+	},
+	"uxextrablocks:quartz_quarter_vertical_slab": {
+		"sound": "stone",
+		"textures": "quartz_quarter_vertical_slab"
+	},
+	"uxextrablocks:smooth_red_sandstone_quarter_vertical_slab": {
+		"sound": "stone",
+		"textures": "smooth_red_sandstone_quarter_vertical_slab"
+	},
+	"uxextrablocks:smooth_sandstone_quarter_vertical_slab": {
+		"sound": "stone",
+		"textures": "smooth_sandstone_quarter_vertical_slab"
+	},
+	"uxextrablocks:smooth_stone_quarter_vertical_slab": {
+		"sound": "stone",
+		"textures": "smooth_stone_quarter_vertical_slab"
+	},
+	"uxextrablocks:spruce_wood_quarter_vertical_slab": {
+		"sound": "wood",
+		"textures": "spruce_wood_quarter_vertical_slab"
+	},
+	"uxextrablocks:stone_bricks_quarter_vertical_slab": {
+		"sound": "stone",
+		"textures": "stone_bricks_quarter_vertical_slab"
+	},
+	"uxextrablocks:stone_quarter_vertical_slab": {
+		"sound": "stone",
+		"textures": "stone_quarter_vertical_slab"
+	},
+	"uxextrablocks:warped_quarter_vertical_slab": {
+		"sound": "wood",
+		"textures": "warped_quarter_vertical_slab"
+	},
+	"uxextrablocks:acacia_wood_vertical_half_slab": {
+		"sound": "wood",
+		"textures": "acacia_wood_vertical_half_slab"
+	},
+	"uxextrablocks:andesite_vertical_half_slab": {
+		"sound": "stone",
+		"textures": "andesite_vertical_half_slab"
+	},
+	"uxextrablocks:birch_wood_vertical_half_slab": {
+		"sound": "wood",
+		"textures": "birch_vertical_half_slab"
+	},
+	"uxextrablocks:bricks_vertical_half_slab": {
+		"sound": "brick",
+		"textures": "bricks_vertical_half_slab"
+	},
+	"uxextrablocks:cobblestone_vertical_half_slab": {
+		"sound": "stone",
+		"textures": "cobblestone_vertical_half_slab"
+	},
+	"uxextrablocks:crimson_vertical_half_slab": {
+		"sound": "wood",
+		"textures": "crimson_vertical_half_slab"
+	},
+	"uxextrablocks:dark_oak_wood_vertical_half_slab": {
+		"sound": "wood",
+		"textures": "dark_oak_wood_vertical_half_slab"
+	},
+	"uxextrablocks:dark_prismarine_vertical_half_slab": {
+		"sound": "stone",
+		"textures": "dark_prismarine_vertical_half_slab"
+	},
+	"uxextrablocks:diorite_vertical_half_slab": {
+		"sound": "stone",
+		"textures": "diorite_vertical_half_slab"
+	},
+	"uxextrablocks:granite_vertical_half_slab": {
+		"sound": "stone",
+		"textures": "granite_vertical_half_slab"
+	},
+	"uxextrablocks:jungle_wood_vertical_half_slab": {
+		"sound": "wood",
+		"textures": "jungle_wood_vertical_half_slab"
+	},
+	"uxextrablocks:mossy_cobblestone_vertical_half_slab": {
+		"sound": "stone",
+		"textures": "mossy_cobblestone_vertical_half_slab"
+	},
+	"uxextrablocks:mossy_stone_brick_vertical_half_slab": {
+		"sound": "stone",
+		"textures": "mossy_stone_brick_vertical_half_slab"
+	},
+	"uxextrablocks:oak_wood_vertical_half_slab": {
+		"sound": "wood",
+		"textures": "oak_wood_vertical_half_slab"
+	},
+	"uxextrablocks:polished_blackstone_vertical_half_slab": {
+		"sound": "stone",
+		"textures": "polished_blackstone_vertical_half_slab"
+	},
+	"uxextrablocks:prismarine_bricks_vertical_half_slab": {
+		"sound": "stone",
+		"textures": "prismarine_bricks_vertical_half_slab"
+	},
+	"uxextrablocks:quartz_vertical_half_slab": {
+		"sound": "stone",
+		"textures": "quartz_vertical_half_slab"
+	},
+	"uxextrablocks:smooth_red_sandstone_vertical_half_slab": {
+		"sound": "stone",
+		"textures": "smooth_red_sandstone_vertical_half_slab"
+	},
+	"uxextrablocks:smooth_sandstone_vertical_half_slab": {
+		"sound": "stone",
+		"textures": "smooth_sandstone_vertical_half_slab"
+	},
+	"uxextrablocks:smooth_stone_vertical_half_slab": {
+		"sound": "stone",
+		"textures": "smooth_stone_vertical_half_slab"
+	},
+	"uxextrablocks:spruce_wood_vertical_half_slab": {
+		"sound": "wood",
+		"textures": "spruce_wood_vertical_half_slab"
+	},
+	"uxextrablocks:stone_bricks_vertical_half_slab": {
+		"sound": "stone",
+		"textures": "stone_bricks_vertical_half_slab"
+	},
+	"uxextrablocks:stone_vertical_half_slab": {
+		"sound": "stone",
+		"textures": "stone_vertical_half_slab"
+	},
+	"uxextrablocks:warped_vertical_half_slab": {
+		"sound": "wood",
+		"textures": "warped_vertical_half_slab"
+	}
+}

@@ -1,0 +1,119 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.16.200",
+	"minecraft:block": {
+		"description": {
+			"identifier": "uxextrablocks:stone_bricks_vertical_slab",
+			"properties": {
+				"uxextrablocks:state_color": [
+					1,
+					2,
+					3
+				],
+				"uxextrablocks:facing": [
+					2,
+					3,
+					4,
+					5
+				]
+			}
+		},
+		"components": {
+			"minecraft:geometry": "geometry.vertical_slab",
+			"minecraft:material_instances": {
+				"*": {
+					"texture": "stone_bricks_vertical_slab",
+					"render_method": "opaque"
+				}
+			},
+			"minecraft:pick_collision": {
+				"origin": [
+					-8,
+					0,
+					-8
+				],
+				"size": [
+					16,
+					16,
+					8
+				]
+			},
+			"minecraft:entity_collision": {
+				"origin": [
+					-8,
+					0,
+					-8
+				],
+				"size": [
+					16,
+					16,
+					8
+				]
+			},
+			"minecraft:on_player_placing": {
+				"event": "uxextrablocks:place_facing"
+			},
+			"minecraft:flammable": {
+				"burn_odds": 0,
+				"flame_odds": 0
+			},
+			"minecraft:block_light_emission": 0,
+			"minecraft:block_light_absorption": 0,
+			"minecraft:unwalkable": true,
+			"minecraft:destroy_time": 1,
+			"minecraft:friction": 0.6
+		},
+		"events": {
+			"uxextrablocks:place_facing": {
+				"sequence": [
+					{
+						"set_block_property": {
+							"uxextrablocks:facing": "(query.cardinal_player_facing)"
+						}
+					}
+				]
+			}
+		},
+		"permutations": [
+			{
+				"condition": "query.block_property('uxextrablocks:facing') == 2",
+				"components": {
+					"minecraft:block_light_absorption": 0
+				}
+			},
+			{
+				"condition": "query.block_property('uxextrablocks:facing') == 3",
+				"components": {
+					"minecraft:rotation": [
+						0,
+						180,
+						0
+					],
+					"minecraft:block_light_absorption": 0
+				}
+			},
+			{
+				"condition": "query.block_property('uxextrablocks:facing') == 4",
+				"components": {
+					"minecraft:rotation": [
+						0,
+						90,
+						0
+					],
+					"minecraft:block_light_absorption": 0
+				}
+			},
+			{
+				"condition": "query.block_property('uxextrablocks:facing') == 5",
+				"components": {
+					"minecraft:rotation": [
+						0,
+						270,
+						0
+					],
+					"minecraft:block_light_absorption": 0
+				}
+			}
+		]
+	}
+}
